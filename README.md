@@ -1,4 +1,4 @@
-# Hola, soy Manuel García Cortés.👋
+# Hola, soy Manuel García Cortés. 👋
 <!--
 **ManuelGarCor/ManuelGarCor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
