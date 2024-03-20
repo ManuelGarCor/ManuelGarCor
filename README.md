@@ -56,6 +56,19 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
 </div>
+<p align="left">Visual Studio Code - Insiders, es mi IDE de elección por su versatilidad y eficiencia. Utilizo una variedad de extensiones para optimizar mi entorno de desarrollo, como:</p>
+<ul>
+  <li><b>Extension Pack de C/C++:</b> Un paquete completo que facilita el desarrollo en C/C++.</li>
+  <li><b>Visualizador de Excel:</b> Me permite ver hojas de cálculo de Excel directamente en el editor, lo cual es útil para gestionar datos.</li>
+  <li><b>Tema de GitHub:</b> Uso este tema que imita la interfaz de GitHub, me gusta su diseño limpio y claro.</li>
+  <li><b>Material Icon Theme:</b> Este tema de iconos me ayuda a navegar por mis archivos y carpetas rápidamente gracias a su diseño intuitivo.</li>
+  <li><b>Python:</b> Soporte integral para Python, incluyendo IntelliSense y linting, que es fundamental para mis proyectos en Python.</li>
+  <li><b>Depurador de Python:</b> Una herramienta específica para depurar código Python, lo que me permite solucionar problemas de manera eficiente.</li>
+  <li><b>rust-analyzer:</b> Ofrece soporte para el lenguaje Rust, incluyendo autocompletado e inferencia de tipos, lo que es clave para mis exploraciones en Rust.</li>
+  <li><b>vscode-pdf:</b> Me permite visualizar archivos PDF dentro de VS Code, lo que es conveniente para revisar documentación.</li>
+  <li><b>vscode-pets:</b> Añade mascotas interactivas en mi VS Code, una forma divertida de personalizar mi espacio de trabajo.</li>
+</ul>
+
 
 ###
 
@@ -74,7 +87,9 @@
 
 <div>
   <img height="100" style="float: left; margin-right: 20px;" src="https://raw.githubusercontent.com/ManuelGarCor/ManuelGarCor/main/Bulletkin.png" align="left"/>
-  <p>Soy Manuel García Cortés, apasionado por la tecnología y la innovación. Actualmente, estoy cursando el grado en Ingeniería Informática en la Universidad de Salamanca, donde he tenido la oportunidad de trabajar en proyectos y colaborar con compañeros talentosos. Me especializo en desarrollo de software y tengo un interés particular en la ciberseguridad, teoría de códigos y criptografía.</p>
+    <p>
+    Soy Manuel García Cortés, apasionado por la tecnología y la innovación. Actualmente, estoy cursando el grado en Ingeniería Informática en la Universidad de Salamanca, donde he tenido la oportunidad de trabajar en proyectos y colaborar con compañeros talentosos. Me especializo en desarrollo de software y tengo un interés particular en la ciberseguridad, teoría de códigos y criptografía.
+    </p>
 </div>
 
 ###
