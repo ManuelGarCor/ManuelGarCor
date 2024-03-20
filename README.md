@@ -2,13 +2,7 @@
 
 ###
 
-<h5 align="left">Estudiante de Ingenería Informática - Universidad de Salamanca</h5>
-
-###
-
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/ManuelGarCor/ManuelGarCor/main/Bulletkin.png"  />
-</div>
+<p align="left">Estudiante de Ingenería Informática - Universidad de Salamanca</p>
 
 ###
 
@@ -18,7 +12,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/soygafe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=soygafe&count=3&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=soygafe&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -61,9 +55,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelGarCor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelGarCor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelGarCor&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelGarCor&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelGarCor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="175" alt="stats graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelGarCor&radius=20&theme=elegant&area=false&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Soy Manuel García Cortés, actualmente, estudiante del grado en Ingeniería Informática, Universidad de Salamanca.</p>
+
+###
+
+<div align="left">
+  <img height="200" src="https://raw.githubusercontent.com/ManuelGarCor/ManuelGarCor/main/Bulletkin.png"  />
 </div>
 
 ###
