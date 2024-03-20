@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/256px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" height="40" alt="visual studio code - insiders logo"  />
 </div>
 <p align="left">Visual Studio Code - Insiders, es mi IDE de elección por su versatilidad y eficiencia. Utilizo una variedad de extensiones para optimizar mi entorno de desarrollo, como:</p>
 <ul>
