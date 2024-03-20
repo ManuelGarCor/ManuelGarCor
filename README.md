@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/256px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" height="40" alt="visual studio code - insiders logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/256px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" height="50" alt="visual studio code - insiders logo"  margin=10px/>
 </div>
 <p align="left">Visual Studio Code - Insiders, es mi IDE de elección por su versatilidad y eficiencia. Utilizo una variedad de extensiones para optimizar mi entorno de desarrollo, como:</p>
 <ul>
