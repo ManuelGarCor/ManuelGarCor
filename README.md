@@ -59,13 +59,12 @@
 <p align="left">Visual Studio Code - Insiders, es mi IDE de elección por su versatilidad y eficiencia. Utilizo una variedad de extensiones para optimizar mi entorno de desarrollo, como:</p>
 <ul>
   <li><b>Extension Pack de C/C++:</b> Un paquete completo que facilita el desarrollo en C/C++.</li>
-  <li><b>Tema de GitHub:</b> Uso este tema que imita la interfaz de GitHub, me gusta su diseño limpio y claro.</li>
-  <li><b>Material Icon Theme:</b> Este tema de iconos ayuda a navegar los directrios gracias a su diseño intuitivo.</li>
-  <li><b>Python:</b> Soporte integral para Python.</li>
   <li><b>rust-analyzer:</b> Ofrece soporte para el lenguaje Rust.</li>
-  <li><b>vscode-pdf:</b> Me permite visualizar archivos PDF dentro de VS Code, lo que es conveniente para revisar documentación.</li>
-  <li><b>Visualizador de Excel:</b> Me permite ver hojas de cálculo de Excel directamente en el editor, útil para gestionar datos.</li>
-  <li><b>vscode-pets:</b> Añade mascotas interactivas en mi VS Code, una forma divertida de personalizar mi espacio de trabajo.</li>
+  <li><b>Python:</b> Soporte integral para Python.</li>
+  <li><b>Tema de GitHub:</b> Tema que imita la interfaz de GitHub, diseño limpio y claro.</li>
+  <li><b>Material Icon Theme:</b> Este tema de iconos ayuda a navegar los directrios gracias a su diseño intuitivo.</li>
+  <li><b>vscode-pdf:</b> Permite visualizar archivos PDF dentro de VS Code, conveniente para revisar documentación.</li>
+  <li><b>Visualizador de Excel:</b> Permite ver hojas de cálculo directamente en el editor, para gestionar datos.</li>
 </ul>
 
 
