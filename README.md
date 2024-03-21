@@ -86,10 +86,13 @@
 <h2 align="left">About me</h2>
 
 <div>
-  <img height="100" style="float: left; margin-right: 20px;" src="https://raw.githubusercontent.com/ManuelGarCor/ManuelGarCor/main/Bulletkin.png" align="left"/>
+  <img height="100" style="float: left; margin-right: 20px;" src="https://logodetimes.com/times/chicago-bulls/logo-chicago-bulls-benny-2048.png" align="left"/>
     <p style="text-align: justify;">
     Soy Manuel García Cortés, apasionado por la tecnología y la innovación. Actualmente, estoy cursando el grado en Ingeniería Informática en la Universidad de Salamanca, donde he tenido la oportunidad de trabajar en proyectos y colaborar con compañeros talentosos. Me especializo en desarrollo de software y tengo un interés particular en la ciberseguridad, teoría de códigos y criptografía.
     </p>
 </div>
 
 ###
+
+### 
+### https://raw.githubusercontent.com/ManuelGarCor/ManuelGarCor/main/Bulletkin.png
