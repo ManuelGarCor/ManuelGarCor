@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align = "center">
   <a href="https://open.spotify.com/user/soygafe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=soygafe&count=2&unique=false" alt="Spotify recently played"  />
   </a>
