@@ -1,3 +1,26 @@
-<!-- DOCUMENTO README.md - Manuel García Cortés -->
 
-# Hola! 
+<!-- Inicio: declaración de estilos de la página -->
+<style>
+    .logo { 
+        width: 30px;
+        height: auto;
+    }
+    .icon {
+        width: 15px;
+        height: auto;
+    }
+    .usal {
+        width: 225px;
+    }
+</style>
+
+<!-- Título: comienzo de la página como tal -->
+<h1> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" class="logo"> Bienvenid@ a mi perfil de GitHub</h1>
+
+<p> Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática <br>
+<img src="https://www.usal.es/files/logo_usal.png" alt="Universidad de Salamanca" class="usal"> <br> </p>
+
+<h2> • About me </h2>
+<h2> • Resumen </h2>
+<h2> • Conocimientos </h2>
+<h2> • Mi IDE </h2>
