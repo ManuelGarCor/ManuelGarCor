@@ -4,20 +4,6 @@
 
 <p align="left">Estudiante de Ingenería Informática - Universidad de Salamanca</p>
 
-###
-
-<h2 align="left">Mi Spotify - Canciones recientes</h2>
-
-###
-
-<div align = "center">
-  <a href="https://open.spotify.com/user/soygafe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=soygafe&count=2&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Mis conocimientos</h2>
 
 ###
