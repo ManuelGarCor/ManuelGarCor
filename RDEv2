@@ -1,26 +1,80 @@
 
 <!-- Inicio: declaración de estilos de la página -->
 <style>
-    .logo { 
-        width: 30px;
-        height: auto;
-    }
     .icon {
-        width: 15px;
-        height: auto;
+        width: 30px;
+        height: 40px;
+        vertical-align:text-top;
+		margin-right: 10px;
     }
     .usal {
-        width: 225px;
+        height: 95px;
+		display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    }
+	.main-logo {
+        height: 50px;
+		display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    }
+	.list-item {
+        display: flex;
+        align-items: center;
+		margin-bottom: 10px;
     }
 </style>
 
 <!-- Título: comienzo de la página como tal -->
-<h1> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" class="logo"> Bienvenid@ a mi perfil de GitHub</h1>
+<h1> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" class="icon"> Bienvenid@ a mi perfil de GitHub</h1>
 
 <p> Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática <br>
-<img src="https://www.usal.es/files/logo_usal.png" alt="Universidad de Salamanca" class="usal"> <br> </p>
+<img src="https://www.usal.es/files/logo_usal.png" alt="Universidad de Salamanca" class="usal"></p>
 
-<h2> • About me </h2>
-<h2> • Resumen </h2>
-<h2> • Conocimientos </h2>
-<h2> • Mi IDE </h2>
+## About me
+
+
+## Mis conocimientos
+<ul>
+    <li class="list-item">
+		<img src="Icon\C_Icon.svg" alt="C" class="icon">
+		<a href="" target="_blank">
+			<strong>C</strong></a>: Un lenguaje de programación de propósito general que ha influido en muchos otros lenguajes.
+	</li>
+	<li class="list-item">
+		<img src="Icon\C_Sharp.svg" alt="C#" class="icon">
+		<a href="" target="_blank">
+			<strong>C#</strong></a>: Un lenguaje de programación moderno y orientado a objetos desarrollado por Microsoft.
+	</li>
+	<li class="list-item">
+		<img src="Icon\C_Plus.svg" alt="C++" class="icon">
+		<a href="" target="_blank">
+			<strong>C++</strong></a>: Un lenguaje de programación de propósito general de programación orientada a objetos.
+	</li>
+	<li class="list-item">
+		<img src="Icon\Rust.svg" alt="Rust" class="icon">
+		<a href="" target="_blank">
+			<strong>Rust</strong></a>: Un lenguaje de programación que se centra en la seguridad y el rendimiento.
+	</li>
+	<li class="list-item">
+		<img src="Icon\Python.svg" alt="Python" class="icon">
+		<a href="" target="_blank">
+			<strong>Python</strong></a>: Un lenguaje de programación que se centra en la seguridad y el rendimiento.
+	</li>
+</ul>
+
+## Mi IDE
+<div>
+	<img src="Icon\VS Insiders.png" alt="Visual Studio Code - Insiders" class="main-logo"/>
+	<br>
+</div>
+Visual Studio Code - Insiders (VS Code) es mi IDE porque es increíblemente versátil y se adapta a una amplia variedad de lenguajes de programación. Aquí te cuento por qué me resulta tan útil:
+  
+  - Soporte Multilenguaje:
+  - Funciones útiles: 
+  - Extensiones:
+  
+Uso la versión Insiders de VS Code porque es una versión preliminar que recibe actualizaciones diarias con las últimas características y correcciones de errores. Es ideal para mí, ya que quiero estar a la vanguardia y probar las nuevas funcionalidades antes de que sean lanzadas en la versión estable.  
+  
+## Plataformas
