@@ -40,7 +40,7 @@
     <li class="list-item">
 		<img src="Icon\C_Icon.svg" alt="C" class="icon">
 		<a href="" target="_blank">
-			<strong>C</strong></a>: Un lenguaje de programación de propósito general que ha influido en muchos otros lenguajes.
+			<strong>C</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
 	</li>
 	<li class="list-item">
 		<img src="Icon\C_Sharp.svg" alt="C#" class="icon">
