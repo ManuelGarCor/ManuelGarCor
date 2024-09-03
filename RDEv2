@@ -79,11 +79,31 @@
 - Frameworks:
 <ul>
     <li class="list-item">
-		<img src="Icon\DotNet_Icon.svg" alt=".Net" class="icon">
+		<img src="Icon\DotNet.svg" alt=".Net" class="icon">
 		<a href="" target="_blank">
-			<strong>.NET</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
+			<strong>.NET</strong></a>: .
 	</li>
 </ul>
+
+- Motores:  
+<ul>
+    <li class="list-item">
+		<img src="Icon\Gododt.svg" alt="Gododt" class="icon">
+		<a href="" target="_blank">
+			<strong>Gododt</strong></a>: .
+	</li>
+    <li class="list-item">
+		<img src="Icon\Unity.svg" alt="Unity" class="icon">
+		<a href="" target="_blank">
+			<strong>Unity</strong></a>: .
+	</li>
+    <li class="list-item">
+		<img src="Icon\Unreal.svg" alt="Unreal" class="icon">
+		<a href="" target="_blank">
+			<strong>Unreal</strong></a>: .
+	</li>
+</ul>
+- Diseño y modelado:
 
 ## Mi IDE
 <div>
