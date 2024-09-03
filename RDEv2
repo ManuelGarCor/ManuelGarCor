@@ -23,6 +23,7 @@
         display: flex;
         align-items: center;
 		margin-bottom: 10px;
+        text-align: justify;
     }
 </style>
 
@@ -36,6 +37,7 @@
 
 
 ## Mis conocimientos
+- Lenguajes de programación:
 <ul>
     <li class="list-item">
 		<img src="Icon\C_Icon.svg" alt="C" class="icon">
@@ -44,23 +46,42 @@
 	</li>
 	<li class="list-item">
 		<img src="Icon\C_Sharp.svg" alt="C#" class="icon">
-		<a href="" target="_blank">
-			<strong>C#</strong></a>: Un lenguaje de programación moderno y orientado a objetos desarrollado por Microsoft.
+		<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
+			<strong>C#</strong></a>: Un lenguaje moderno y orientado a objetos desarrollado por Microsoft.
 	</li>
 	<li class="list-item">
 		<img src="Icon\C_Plus.svg" alt="C++" class="icon">
-		<a href="" target="_blank">
-			<strong>C++</strong></a>: Un lenguaje de programación de propósito general de programación orientada a objetos.
+		<a href="https://cplusplus.com" target="_blank">
+			<strong>C++</strong></a>: Un lenguaje de propósito general de programación orientada a objetos.
 	</li>
 	<li class="list-item">
 		<img src="Icon\Rust.svg" alt="Rust" class="icon">
 		<a href="" target="_blank">
-			<strong>Rust</strong></a>: Un lenguaje de programación que se centra en la seguridad y el rendimiento.
+			<strong>Rust</strong></a>: Un lenguaje que se centra en la seguridad y el rendimiento.
 	</li>
 	<li class="list-item">
 		<img src="Icon\Python.svg" alt="Python" class="icon">
 		<a href="" target="_blank">
-			<strong>Python</strong></a>: Un lenguaje de programación que se centra en la seguridad y el rendimiento.
+			<strong>Python</strong></a>: Un lenguaje que se centra en la seguridad y el rendimiento.
+	</li>
+    <li class="list-item">
+		<img src="Icon\HTML.svg" alt="HTML" class="icon">
+		<a href="" target="_blank">
+			<strong>HTML</strong></a>: .
+	</li>
+    <li class="list-item">
+		<img src="Icon\CSS.svg" alt="CSS" class="icon">
+		<a href="" target="_blank">
+			<strong>CSS</strong></a>: .
+	</li>
+</ul>
+
+- Frameworks:
+<ul>
+    <li class="list-item">
+		<img src="Icon\DotNet_Icon.svg" alt=".Net" class="icon">
+		<a href="" target="_blank">
+			<strong>.NET</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
 	</li>
 </ul>
 
