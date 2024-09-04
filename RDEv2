@@ -104,6 +104,22 @@
     </li>
 </ul>
 
+- Gestores de bases de datos:  
+<ul>
+    <li class="list-item">
+        <img src="Icon/MongoDB.svg" alt="MongoDB" class="icon">
+        <a href="https://www.mongodb.com/es" target="_blank"><strong>MongoDB</strong></a>: Una base de datos NoSQL orientada a documentos.
+    </li>
+    <li class="list-item">
+        <img src="Icon/MySQL.svg" alt="MySQL" class="icon">
+        <a href="https://www.mysql.com/" target="_blank"><strong>MySQL</strong></a>: Un sistema de gestión de bases de datos relacionales de código abierto.
+    </li>
+    <li class="list-item">
+        <img src="Icon/MariaDB.svg" alt="MariaDB" class="icon">
+        <a href="https://mariadb.org/" target="_blank"><strong>MariaDB</strong></a>: Un sistema de gestión de bases de datos relacionales de código abierto, bifurcado de MySQL.
+    </li>
+</ul>
+
 - Motores:  
 <ul>
     <li class="list-item">
@@ -122,6 +138,7 @@
 			<strong>Unreal</strong></a>: Un motor de juegos desarrollado por Epic Games.
 	</li>
 </ul>
+
 - Otras herramientas útiles:
 <ul>
     <li class="list-item">
@@ -162,5 +179,3 @@ Visual Studio Code - Insiders (VS Code) es mi IDE porque es increíblemente vers
   - Extensiones:
   
 Uso la versión Insiders de VS Code porque es una versión preliminar que recibe actualizaciones diarias con las últimas características y correcciones de errores. Es ideal para mí, ya que quiero estar a la vanguardia y probar las nuevas funcionalidades antes de que sean lanzadas en la versión estable.  
-  
-## Plataformas  
