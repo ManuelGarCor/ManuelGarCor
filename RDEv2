@@ -2,7 +2,7 @@
 <!-- Inicio: declaración de estilos de la página -->
 <style>
     .icon {
-        width: 30px;
+        width: 35px;
         height: 40px;
         vertical-align:text-top;
 		margin-right: 10px;
@@ -41,7 +41,7 @@
 <ul>
     <li class="list-item">
 		<img src="Icon\C_Icon.svg" alt="C" class="icon">
-		<a href="" target="_blank">
+		<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf" target="_blank">
 			<strong>C</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
 	</li>
 	<li class="list-item">
@@ -56,22 +56,22 @@
 	</li>
 	<li class="list-item">
 		<img src="Icon\Rust.svg" alt="Rust" class="icon">
-		<a href="" target="_blank">
+		<a href="https://doc.rust-lang.org/book/" target="_blank">
 			<strong>Rust</strong></a>: Un lenguaje que se centra en la seguridad y el rendimiento.
 	</li>
 	<li class="list-item">
 		<img src="Icon\Python.svg" alt="Python" class="icon">
-		<a href="" target="_blank">
+		<a href="https://www.python.org/doc/" target="_blank">
 			<strong>Python</strong></a>: Un lenguaje que se centra en la seguridad y el rendimiento.
 	</li>
     <li class="list-item">
 		<img src="Icon\HTML.svg" alt="HTML" class="icon">
-		<a href="" target="_blank">
+		<a href="https://lenguajehtml.com/" target="_blank">
 			<strong>HTML</strong></a>: .
 	</li>
     <li class="list-item">
 		<img src="Icon\CSS.svg" alt="CSS" class="icon">
-		<a href="" target="_blank">
+		<a href="https://lenguajecss.com/" target="_blank">
 			<strong>CSS</strong></a>: .
 	</li>
 </ul>
@@ -80,7 +80,7 @@
 <ul>
     <li class="list-item">
 		<img src="Icon\DotNet.svg" alt=".Net" class="icon">
-		<a href="" target="_blank">
+		<a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
 			<strong>.NET</strong></a>: .
 	</li>
 </ul>
@@ -88,22 +88,44 @@
 - Motores:  
 <ul>
     <li class="list-item">
-		<img src="Icon\Gododt.svg" alt="Gododt" class="icon">
-		<a href="" target="_blank">
-			<strong>Gododt</strong></a>: .
+		<img src="Icon\Godot.png" alt="Godot" class="icon">
+		<a href="https://docs.godotengine.org/en/stable/" target="_blank">
+			<strong>Godot</strong></a>: .
 	</li>
     <li class="list-item">
 		<img src="Icon\Unity.svg" alt="Unity" class="icon">
-		<a href="" target="_blank">
+		<a href="https://docs.unity.com/" target="_blank">
 			<strong>Unity</strong></a>: .
 	</li>
     <li class="list-item">
 		<img src="Icon\Unreal.svg" alt="Unreal" class="icon">
-		<a href="" target="_blank">
+		<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation" target="_blank">
 			<strong>Unreal</strong></a>: .
 	</li>
 </ul>
 - Diseño y modelado:
+<ul>
+    <li class="list-item">
+		<img src="Icon/Adobe.svg" alt="Adobe" class="icon">
+		<a href="" target="_blank">
+			<strong>Adobe</strong></a>: .
+	</li>
+    <li class="list-item">
+		<img src="Icon/Apache.svg" alt="Office" class="icon">
+		<a href="" target="_blank">
+			<strong>Open Office Suite</strong></a>: .
+	</li>
+    <li class="list-item">
+		<img src="Icon/Office.svg" alt="Microsoft" class="icon">
+		<a href="" target="_blank">
+			<strong>Microsoft 356</strong></a>: .
+	</li>
+    <li class="list-item">
+		<img src="Icon/Blender.svg" alt="Blender" class="icon">
+		<a href="" target="_blank">
+			<strong>Blender </strong></a>: .
+	</li>
+</ul>
 
 ## Mi IDE
 <div>
