@@ -74,6 +74,10 @@
 		<a href="https://lenguajecss.com/" target="_blank">
 			<strong>CSS</strong></a>: .
 	</li>
+    <li class="list-item">
+        <img src="Icon/SQL.svg" alt="SQL" class="icon">
+        <a href="https://aws.amazon.com/es/what-is/sql/" target="_blank"><strong>SQL</strong></a>: Un lenguaje de programación para gestionar bases de datos relacionales.
+    </li>
 </ul>
 
 - Frameworks:
@@ -83,6 +87,22 @@
 		<a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
 			<strong>.NET</strong></a>: .
 	</li>
+    <li class="list-item">
+        <img src="Icon/Angular.svg" alt="Angular" class="icon">
+        <a href="https://angular.io/" target="_blank"><strong>Angular</strong></a>: Un framework de desarrollo web basado en TypeScript.
+    </li>
+    <li class="list-item">
+        <img src="Icon/Django.svg" alt="Django" class="icon">
+        <a href="https://www.djangoproject.com/" target="_blank"><strong>Django</strong></a>: Un framework de alto nivel para el desarrollo web en Python.
+    </li>
+    <li class="list-item">
+        <img src="Icon/Flutter.svg" alt="Flutter" class="icon">
+        <a href="https://flutter.dev/" target="_blank"><strong>Flutter</strong></a>: Un framework de código abierto para crear aplicaciones nativas multiplataforma.
+    </li>
+    <li class="list-item">
+        <img src="Icon/React.svg" alt="React" class="icon">
+        <a href="https://reactjs.org/" target="_blank"><strong>React</strong></a>: Una biblioteca de JavaScript para construir interfaces de usuario.
+    </li>
 </ul>
 
 - Motores:  
@@ -90,41 +110,45 @@
     <li class="list-item">
 		<img src="Icon\Godot.png" alt="Godot" class="icon">
 		<a href="https://docs.godotengine.org/en/stable/" target="_blank">
-			<strong>Godot</strong></a>: .
+			<strong>Godot</strong></a>: Un motor de juegos de código abierto.
 	</li>
     <li class="list-item">
 		<img src="Icon\Unity.svg" alt="Unity" class="icon">
 		<a href="https://docs.unity.com/" target="_blank">
-			<strong>Unity</strong></a>: .
+			<strong>Unity</strong></a>: Un motor de juegos multiplataforma.
 	</li>
     <li class="list-item">
 		<img src="Icon\Unreal.svg" alt="Unreal" class="icon">
 		<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation" target="_blank">
-			<strong>Unreal</strong></a>: .
+			<strong>Unreal</strong></a>: Un motor de juegos desarrollado por Epic Games.
 	</li>
 </ul>
-- Diseño y modelado:
+- Otras herramientas útiles:
 <ul>
     <li class="list-item">
 		<img src="Icon/Adobe.svg" alt="Adobe" class="icon">
 		<a href="" target="_blank">
-			<strong>Adobe</strong></a>: .
+			<strong>Adobe</strong></a>: Una suite de software de diseño gráfico, edición de vídeo y desarrollo web.
 	</li>
     <li class="list-item">
 		<img src="Icon/Apache.svg" alt="Office" class="icon">
 		<a href="" target="_blank">
-			<strong>Open Office Suite</strong></a>: .
+			<strong>Open Office Suite</strong></a>: Una suite de oficina de código abierto.
 	</li>
     <li class="list-item">
 		<img src="Icon/Office.svg" alt="Microsoft" class="icon">
 		<a href="" target="_blank">
-			<strong>Microsoft 356</strong></a>: .
+			<strong>Microsoft 356</strong></a>: Una suite de productividad de Microsoft.
 	</li>
     <li class="list-item">
 		<img src="Icon/Blender.svg" alt="Blender" class="icon">
 		<a href="" target="_blank">
-			<strong>Blender </strong></a>: .
+			<strong>Blender </strong></a>: Un software de diseño y modelado 3D de código abierto.
 	</li>
+    <li class="list-item">
+        <img src="Icon/Git.svg" alt="Git" class="icon">
+        <a href="https://git-scm.com/" target="_blank"><strong>Git</strong></a>: Un sistema de control de versiones distribuido.
+    </li>
 </ul>
 
 ## Mi IDE
