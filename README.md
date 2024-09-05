@@ -24,15 +24,16 @@
 
 <ul>
     <li class="list-item" style="display: flex; align-items: center; margin-bottom: 10px; text-align: justify;">
-		<img src="Icon/Assembly.png" alt="Assembly" class="icon" style="width: 35px; height: 40px; margin-right: 10px;">
+		<img src="Icon/Assembly.png" alt="Assembly" class="icon" style="width: 35px; height: 40px; margin-right: 10px; margin-top: auto; margin-bottom: auto;">
 		<a href="https://portal.abuad.edu.ng/lecturer/documents/1595247580Fundamental_of_Assembly_Language.pdf" target="_blank">
 			<strong>Assembly</strong></a>: .
 	</li>
     <li class="list-item" style="display: flex; align-items: center; margin-bottom: 10px; text-align: justify;">
-		<img src="Icon/C_Icon.svg" alt="C" class="icon" style="width: 35px; height: 40px; margin-right: 10px;">
+		<img src="Icon/C_Icon.svg" alt="C" class="icon" style="width: 35px; height: 40px; margin-right: 10px; margin-top: auto; margin-bottom: auto;">
 		<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf" target="_blank">
 			<strong>C</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
 	</li>
+</ul>
 
 	<li class="list-item">
 		<img src="Icon\C_Sharp.svg" alt="C#" class="icon">
