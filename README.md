@@ -1,3 +1,4 @@
+###
 
 <!-- Inicio: declaración de estilos de la página -->
 <style>
@@ -27,16 +28,23 @@
     }
 </style>
 
+###
+
 <!-- Título: comienzo de la página como tal -->
 <h1> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" class="icon"> Bienvenid@ a mi perfil de GitHub</h1>
 
 <p> Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática </p>
 
+###
+
 ## About me
 
 
 ## Mis conocimientos
+
 - Lenguajes de programación:
+
+###
 <ul>
     <li class="list-item">
 		<img src="Icon\Assembly.png" alt="Assembly" class="icon">
@@ -113,6 +121,7 @@
     </li>
 </ul>
 
+###
 - Frameworks:
 <ul>
     <li class="list-item">
