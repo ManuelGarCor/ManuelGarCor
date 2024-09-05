@@ -1,4 +1,4 @@
-## !Logo de GitHub Bienvenid@ a mi perfil de GitHub
+## ![Logo de GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) Bienvenid@ a mi perfil de GitHub
 
 Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática.
 
@@ -6,8 +6,8 @@ Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el g
 
 - Lenguajes de programación:
 
-  - ![Assembly Logo](/Icon/Assembly.png) **Assembly**: .
-  - ![C Logo](/Icon/C_Icon.svg) **C**: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
+  - ![Assembly Logo](/Icon/Assembly.png) [**Assembly**](https://portal.abuad.edu.ng/lecturer/documents/1595247580Fundamental_of_Assembly_Language.pdf): Un lenguaje de bajo nivel utilizado para programar directamente en el hardware de la computadora, proporcionando un control preciso sobre el funcionamiento del procesador.
+  - ![C Logo]() [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf): Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
 
 
 
