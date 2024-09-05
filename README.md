@@ -1,12 +1,31 @@
-<!-- Inicio: declaración de estilos de la página -->
-<style>
-	.main-logo {
-        height: 50px;
-		display: block;
-    	margin-left: auto;
-    	margin-right: auto;
-    }
-</style>
+## !Logo de GitHub Bienvenid@ a mi perfil de GitHub
+
+Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática.
+
+## Mis conocimientos
+
+- Lenguajes de programación:
+
+  - ![Assembly Logo](/Icon/Assembly.png) **Assembly**: .
+  - ![C Logo](/Icon/C_Icon.svg) **C**: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1> 
 	<img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" style="width: 40px; height: 40px; vertical-align: middle;">
