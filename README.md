@@ -1,4 +1,4 @@
-## ![Logo de GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) Bienvenid@ a mi perfil de GitHub
+## ![Logo de GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) Bienvenid@ a mi perfil de GitHub
 
 Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática.
 
@@ -6,8 +6,9 @@ Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el g
 
 - Lenguajes de programación:
 
-  - ![Assembly Logo](/Icon/Assembly.png) [**Assembly**](https://portal.abuad.edu.ng/lecturer/documents/1595247580Fundamental_of_Assembly_Language.pdf): Un lenguaje de bajo nivel utilizado para programar directamente en el hardware de la computadora, proporcionando un control preciso sobre el funcionamiento del procesador.
-  - ![C Logo]() [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf): Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
+  - ![Assembly Logo](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white) [**Assembly**](https://portal.abuad.edu.ng/lecturer/documents/1595247580Fundamental_of_Assembly_Language.pdf): Un lenguaje de bajo nivel utilizado para programar directamente en el hardware de la computadora, proporcionando un control preciso sobre el funcionamiento del procesador.
+  - ![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf): Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
+  - ![C# Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg) [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/): .
 
 
 
@@ -40,7 +41,6 @@ Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el g
 ## Mis conocimientos
 
 - Lenguajes de programación:
-
 <ul>
     <li class="list-item" style="display: flex; align-items: center; margin-bottom: 10px; text-align: justify;">
 		<img src="Icon/Assembly.png" alt="Assembly" class="icon" style="width: 35px; height: 40px; margin-right: 10px; margin-top: auto; margin-bottom: auto;">
@@ -52,8 +52,6 @@ Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el g
 		<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf" target="_blank">
 			<strong>C</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
 	</li>
-</ul>
-
 	<li class="list-item">
 		<img src="Icon\C_Sharp.svg" alt="C#" class="icon">
 		<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
