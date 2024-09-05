@@ -39,6 +39,11 @@
 - Lenguajes de programación:
 <ul>
     <li class="list-item">
+		<img src="Icon\Assembly.png" alt="Assembly" class="icon">
+		<a href="" target="_blank">
+			<strong>Assembly</strong></a>: .
+	</li>
+    <li class="list-item">
 		<img src="Icon\C_Icon.svg" alt="C" class="icon">
 		<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf" target="_blank">
 			<strong>C</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
@@ -74,8 +79,37 @@
 			<strong>CSS</strong></a>: .
 	</li>
     <li class="list-item">
-        <img src="Icon/SQL.svg" alt="SQL" class="icon">
-        <a href="https://aws.amazon.com/es/what-is/sql/" target="_blank"><strong>SQL</strong></a>: Un lenguaje de programación para gestionar bases de datos relacionales.
+        <img src="Icon/sql.svg" alt="SQL" class="icon">
+        <a href="" target="_blank"><strong>SQL</strong></a>: Un lenguaje de programación para gestionar bases de datos relacionales.
+    </li>
+    <li class="list-item">
+		<img src="Icon\Swift.svg" alt="Swift" class="icon">
+		<a href="" target="_blank">
+			<strong>Swift</strong></a>: .
+	</li>
+    <li class="list-item">
+        <img src="Icon/Bash.svg" alt="Shell Script" class="icon">
+        <a href="" target="_blank"><strong>Shell Script</strong></a>:.
+    </li>
+    <li class="list-item">
+        <img src="Icon/Perl.svg" alt="Perl" class="icon">
+        <a href="" target="_blank"><strong>Perl</strong></a>:.
+    </li>
+    <li class="list-item">
+        <img src="Icon/JavaScript.svg" alt="JavaScript" class="icon">
+        <a href="" target="_blank"><strong>JavaScript</strong></a>:.
+    </li>
+    <li class="list-item">
+        <img src="Icon/Java.svg" alt="Java" class="icon">
+        <a href="" target="_blank"><strong>Java</strong></a>:.
+    </li>
+    <li class="list-item">
+        <img src="Icon/matlab.svg" alt="matlab" class="icon">
+        <a href="" target="_blank"><strong>Matlab</strong></a>:.
+    </li>
+    <li class="list-item">
+        <img src="Icon/zig.svg" alt="Zig" class="icon">
+        <a href="" target="_blank"><strong>Zig</strong></a>:.
     </li>
 </ul>
 
@@ -102,6 +136,10 @@
         <img src="Icon/React.svg" alt="React" class="icon">
         <a href="https://reactjs.org/" target="_blank"><strong>React</strong></a>: Una biblioteca de JavaScript para construir interfaces de usuario.
     </li>
+    <li class="list-item">
+        <img src="Icon/Electron.svg" alt="Electron" class="icon">
+        <a href=""_blank"><strong>Electron</strong></a>: .
+    </li>
 </ul>
 
 - Gestores de bases de datos:  
@@ -111,7 +149,7 @@
         <a href="https://www.mongodb.com/es" target="_blank"><strong>MongoDB</strong></a>: Una base de datos NoSQL orientada a documentos.
     </li>
     <li class="list-item">
-        <img src="Icon/MySQL.svg" alt="MySQL" class="icon">
+        <img src="Icon/mysql.svg" alt="MySQL" class="icon">
         <a href="https://www.mysql.com/" target="_blank"><strong>MySQL</strong></a>: Un sistema de gestión de bases de datos relacionales de código abierto.
     </li>
     <li class="list-item">
@@ -162,7 +200,7 @@
 			<strong>Blender </strong></a>: Un software de diseño y modelado 3D de código abierto.
 	</li>
     <li class="list-item">
-        <img src="Icon/Git.svg" alt="Git" class="icon">
+        <img src="Icon/git.svg" alt="Git" class="icon">
         <a href="https://git-scm.com/" target="_blank"><strong>Git</strong></a>: Un sistema de control de versiones distribuido.
     </li>
 </ul>
