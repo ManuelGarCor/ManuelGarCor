@@ -18,13 +18,12 @@
 
 ###
 
-<!-- Título: comienzo de la página como tal -->
-<h1> 
+<h1 style="line-height: 40px;"> 
 	<img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" style="width: 35px; height: 40px; vertical-align: middle; margin-right: 10px;">
 	Bienvenid@ a mi perfil de GitHub 
 </h1>
-
 <p> Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática </p>
+  
 
 ###
 
