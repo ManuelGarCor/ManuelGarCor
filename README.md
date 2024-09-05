@@ -1,5 +1,3 @@
-###
-
 <!-- Inicio: declaración de estilos de la página -->
 <style>
 	.main-logo {
@@ -8,44 +6,34 @@
     	margin-left: auto;
     	margin-right: auto;
     }
-	.list-item {
-        display: flex;
-        align-items: center;
-		margin-bottom: 10px;
-        text-align: justify;
-    }
 </style>
 
-###
-
-<h1 style="line-height: 40px;"> 
-	<img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" style="width: 35px; height: 40px; vertical-align: middle; margin-right: 10px;">
+<h1> 
+	<img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" style="width: 40px; height: 40px; vertical-align: middle;">
 	Bienvenid@ a mi perfil de GitHub 
 </h1>
 <p> Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática </p>
-  
-
-###
 
 ## About me
 
+...  
 
 ## Mis conocimientos
 
 - Lenguajes de programación:
 
-###
 <ul>
-    <li class="list-item">
-		<img src="Icon\Assembly.png" alt="Assembly" class="icon">
-		<a href="" target="_blank">
+    <li class="list-item" style="display: flex; align-items: center; margin-bottom: 10px; text-align: justify;">
+		<img src="Icon/Assembly.png" alt="Assembly" class="icon" style="width: 35px; height: 40px; margin-right: 10px;">
+		<a href="https://portal.abuad.edu.ng/lecturer/documents/1595247580Fundamental_of_Assembly_Language.pdf" target="_blank">
 			<strong>Assembly</strong></a>: .
 	</li>
-    <li class="list-item">
-		<img src="Icon\C_Icon.svg" alt="C" class="icon">
+    <li class="list-item" style="display: flex; align-items: center; margin-bottom: 10px; text-align: justify;">
+		<img src="Icon/C_Icon.svg" alt="C" class="icon" style="width: 35px; height: 40px; margin-right: 10px;">
 		<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf" target="_blank">
 			<strong>C</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
 	</li>
+
 	<li class="list-item">
 		<img src="Icon\C_Sharp.svg" alt="C#" class="icon">
 		<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
