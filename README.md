@@ -8,12 +8,6 @@
         vertical-align:text-top;
 		margin-right: 10px;
     }
-    .usal {
-        height: 95px;
-		display: block;
-    	margin-left: auto;
-    	margin-right: auto;
-    }
 	.main-logo {
         height: 50px;
 		display: block;
