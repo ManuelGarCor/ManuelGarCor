@@ -1,14 +1,23 @@
-## ![Logo de GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) Bienvenid@ a mi perfil de GitHub
+# ![GitHub Badge](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=black) Bienvenid@ a mi perfil de GitHub
 
 Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática.
 
-## Mis conocimientos
+## 🛠️ Mis conocimientos
 
-- Lenguajes de programación:
+### Lenguajes de programación
 
-  - ![Assembly Logo](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white) [**Assembly**](https://portal.abuad.edu.ng/lecturer/documents/1595247580Fundamental_of_Assembly_Language.pdf): Un lenguaje de bajo nivel utilizado para programar directamente en el hardware de la computadora, proporcionando un control preciso sobre el funcionamiento del procesador.
-  - ![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf): Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
-  - ![C# Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg) [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/): .
+- ![Assembly Logo](https://img.shields.io/badge/-Assembly-525252?style=flat&logo=assembly&logoColor=white) [**Assembly**](https://en.wikipedia.org/wiki/Assembly_language): Un lenguaje de bajo nivel usado para programación cercana al hardware. Es fundamental para entender cómo interactúa el software con el hardware a nivel de instrucciones.
+
+- ![C Logo](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf): Un lenguaje de programación de propósito general, conocido por su eficiencia y control sobre los recursos del sistema. Es ampliamente utilizado en sistemas embebidos y desarrollo de sistemas operativos.
+
+- ![C++ Logo](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) [**C++**](https://en.cppreference.com/w/cpp): Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real.
+
+- ![C# Logo](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/): Un lenguaje de programación moderno desarrollado por Microsoft, utilizado en aplicaciones de escritorio, juegos (con Unity), y aplicaciones web con .NET.
+
+- ![C# Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg) [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/): .
+- ![C++ Logo](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) [**C++**](https://en.cppreference.com/w/cpp): Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real.
+
+
 
 
 
