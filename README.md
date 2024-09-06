@@ -6,218 +6,79 @@ Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el g
 
 ### Lenguajes de programación
 
-- ![Assembly Logo](https://img.shields.io/badge/-Assembly-525252?style=flat&logo=assembly&logoColor=white) [**Assembly**](https://en.wikipedia.org/wiki/Assembly_language): Un lenguaje de bajo nivel usado para programación cercana al hardware. Es fundamental para entender cómo interactúa el software con el hardware a nivel de instrucciones.
+- ![Assembly Logo](https://img.shields.io/badge/-Assembly-525252?style=flat&logo=assembly&logoColor=white) Un lenguaje de bajo nivel usado para programación cercana al hardware. Es fundamental para entender cómo interactúa el software con el hardware a nivel de instrucciones. Pulse aquí para leer más sobre [**Assembly**](https://en.wikipedia.org/wiki/Assembly_language).
 
-- ![C Logo](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf): Un lenguaje de programación de propósito general, conocido por su eficiencia y control sobre los recursos del sistema. Es ampliamente utilizado en sistemas embebidos y desarrollo de sistemas operativos.
+- ![C Logo](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=black&style=flat-square) Un lenguaje de programación de propósito general, conocido por su eficiencia y control sobre los recursos del sistema. Es ampliamente utilizado en sistemas embebidos y desarrollo de sistemas operativos. Pulse aquí para leer más sobre [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf).
 
-- ![C++ Logo](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) [**C++**](https://en.cppreference.com/w/cpp): Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real.
+- ![C++ Logo](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real. Pulse aquí para leer más sobre [**C++**](https://en.cppreference.com/w/cpp).
 
 - ![C# Logo](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/): Un lenguaje de programación moderno desarrollado por Microsoft, utilizado en aplicaciones de escritorio, juegos (con Unity), y aplicaciones web con .NET.
 
-- ![C# Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg) [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/): .
-- ![C++ Logo](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) [**C++**](https://en.cppreference.com/w/cpp): Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real.
+- ![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) [**Python**](https://www.python.org/doc/): Un lenguaje de programación interpretado, versátil y fácil de aprender. Es utilizado en desarrollo web, análisis de datos, inteligencia artificial, y automatización de tareas.
 
+- ![Rust Logo](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) [**Rust**](https://doc.rust-lang.org/book/): Un lenguaje de programación de sistemas que se enfoca en la seguridad y el rendimiento. Es utilizado en aplicaciones de alto rendimiento y sistemas críticos.
 
+- ![HTML Logo](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) [**HTML**](https://lenguajehtml.com/): Un lenguaje de marcado utilizado en el desarrollo web para estructurar el contenido de las páginas.
 
+- ![CSS Logo](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) [**CSS**](https://lenguajecss.com/): Un lenguaje de estilos utilizado en el desarrollo web para dar formato y diseño a las páginas.
 
+- ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) [**SQL**](https://www.postgresql.org/docs/): Un lenguaje de programación para gestionar bases de datos relacionales. Es utilizado en consultas, actualizaciones, y administración de bases de datos.
 
+- ![Swift Logo](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white) [**Swift**](https://swift.org/documentation/): Un lenguaje de programación desarrollado por Apple para crear aplicaciones iOS, macOS, watchOS, y tvOS.
 
+- ![Shell Script Logo](https://img.shields.io/badge/-Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) [**Shell Script**](https://www.gnu.org/software/bash/manual/): Un lenguaje de scripting utilizado en sistemas Unix y Linux para automatizar tareas y procesos.
 
+- ![Perl Logo](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white) [**Perl**](https://learn.perl.org/): Un lenguaje de programación interpretado utilizado en desarrollo web, administración de sistemas, y procesamiento de texto.
 
+- ![JavaScript Logo](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Un lenguaje de programación interpretado utilizado en desarrollo web para crear contenido interactivo y dinámico.
 
+- ![Java Logo](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) [**Java**](https://docs.oracle.com/en/java/): Un lenguaje de programación de propósito general y orientado a objetos. Es utilizado en desarrollo de aplicaciones empresariales, móviles, y web.
 
+- ![Matlab Logo](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white) [**Matlab**](https://www.mathworks.com/help/matlab/): Un entorno de programación y lenguaje de programación utilizado en matemáticas, ingeniería, y ciencias.
 
+- ![Zig Logo](https://img.shields.io/badge/-Zig-000000?style=flat&logo=zig&logoColor=white) [**Zig**](https://ziglang.org/documentation/): Un lenguaje de programación moderno y seguro que se enfoca en la eficiencia y la simplicidad.
 
+### Frameworks
 
+- ![.NET Logo](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) [**.NET**](https://learn.microsoft.com/en-us/dotnet/): Un framework de desarrollo de software de Microsoft para construir aplicaciones Windows, web, móviles, y servicios en la nube.
 
+- ![Angular Logo](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) [**Angular**](https://angular.io/): Un framework de desarrollo web basado en TypeScript para construir aplicaciones de una sola página (SPA) y aplicaciones web progresivas (PWA).
 
+- ![Django Logo](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) [**Django**](https://www.djangoproject.com/): Un framework de alto nivel para el desarrollo web en Python que fomenta el desarrollo rápido y limpio.
 
+- ![Flutter Logo](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) [**Flutter**](https://flutter.dev/): Un framework de código abierto para crear aplicaciones nativas multiplataforma para iOS, Android, y la web desde un solo código base.
 
+- ![React Logo](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) [**React**](https://reactjs.org/): Una biblioteca de JavaScript para construir interfaces de usuario interactivas y reutilizables.
 
+- ![Electron Logo](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) [**Electron**](https://www.electronjs.org/docs): Un framework de código abierto para crear aplicaciones de escritorio multiplataforma con tecnologías web (HTML, CSS, JavaScript).
 
+### Gestores de bases de datos
 
+- ![MongoDB Logo](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) [**MongoDB**](https://www.mongodb.com/): Una base de datos NoSQL orientada a documentos que se utiliza en aplicaciones web modernas y escalables.
 
-<h1> 
-	<img src="https://www.svgrepo.com/show/349375/github.svg" alt="Logo de GitHub" style="width: 40px; height: 40px; vertical-align: middle;">
-	Bienvenid@ a mi perfil de GitHub 
-</h1>
-<p> Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática </p>
+- ![MySQL Logo](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) [**MySQL**](https://www.mysql.com/): Un sistema de gestión de bases de datos relacionales de código abierto ampliamente utilizado en aplicaciones web y empresariales.
 
-## About me
+- ![MariaDB Logo](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white) [**MariaDB**](https://mariadb.org/): Un sistema de gestión de bases de datos relacionales de código abierto, bifurcado de MySQL, que se utiliza en aplicaciones web y empresariales.
 
-...  
+### Motores
 
-## Mis conocimientos
+- ![Godot Logo](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) [**Godot**](https://docs.godotengine.org/en/stable/): Un motor de juegos de código abierto que se utiliza para crear videojuegos 2D y 3D multiplataforma.
 
-- Lenguajes de programación:
-<ul>
-    <li class="list-item" style="display: flex; align-items: center; margin-bottom: 10px; text-align: justify;">
-		<img src="Icon/Assembly.png" alt="Assembly" class="icon" style="width: 35px; height: 40px; margin-right: 10px; margin-top: auto; margin-bottom: auto;">
-		<a href="https://portal.abuad.edu.ng/lecturer/documents/1595247580Fundamental_of_Assembly_Language.pdf" target="_blank">
-			<strong>Assembly</strong></a>: .
-	</li>
-    <li class="list-item" style="display: flex; align-items: center; margin-bottom: 10px; text-align: justify;">
-		<img src="Icon/C_Icon.svg" alt="C" class="icon" style="width: 35px; height: 40px; margin-right: 10px; margin-top: auto; margin-bottom: auto;">
-		<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf" target="_blank">
-			<strong>C</strong></a>: Un lenguaje de propósito general que ha influido en muchos otros lenguajes.
-	</li>
-	<li class="list-item">
-		<img src="Icon\C_Sharp.svg" alt="C#" class="icon">
-		<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
-			<strong>C#</strong></a>: Un lenguaje moderno y orientado a objetos desarrollado por Microsoft.
-	</li>
-	<li class="list-item">
-		<img src="Icon\C_Plus.svg" alt="C++" class="icon">
-		<a href="https://cplusplus.com" target="_blank">
-			<strong>C++</strong></a>: Un lenguaje de propósito general de programación orientada a objetos.
-	</li>
-	<li class="list-item">
-		<img src="Icon\Rust.svg" alt="Rust" class="icon">
-		<a href="https://doc.rust-lang.org/book/" target="_blank">
-			<strong>Rust</strong></a>: Un lenguaje que se centra en la seguridad y el rendimiento.
-	</li>
-	<li class="list-item">
-		<img src="Icon\Python.svg" alt="Python" class="icon">
-		<a href="https://www.python.org/doc/" target="_blank">
-			<strong>Python</strong></a>: Un lenguaje que se centra en la seguridad y el rendimiento.
-	</li>
-    <li class="list-item">
-		<img src="Icon\HTML.svg" alt="HTML" class="icon">
-		<a href="https://lenguajehtml.com/" target="_blank">
-			<strong>HTML</strong></a>: .
-	</li>
-    <li class="list-item">
-		<img src="Icon\CSS.svg" alt="CSS" class="icon">
-		<a href="https://lenguajecss.com/" target="_blank">
-			<strong>CSS</strong></a>: .
-	</li>
-    <li class="list-item">
-        <img src="Icon/sql.svg" alt="SQL" class="icon">
-        <a href="" target="_blank"><strong>SQL</strong></a>: Un lenguaje de programación para gestionar bases de datos relacionales.
-    </li>
-    <li class="list-item">
-		<img src="Icon\Swift.svg" alt="Swift" class="icon">
-		<a href="" target="_blank">
-			<strong>Swift</strong></a>: .
-	</li>
-    <li class="list-item">
-        <img src="Icon/Bash.svg" alt="Shell Script" class="icon">
-        <a href="" target="_blank"><strong>Shell Script</strong></a>:.
-    </li>
-    <li class="list-item">
-        <img src="Icon/Perl.svg" alt="Perl" class="icon">
-        <a href="" target="_blank"><strong>Perl</strong></a>:.
-    </li>
-    <li class="list-item">
-        <img src="Icon/JavaScript.svg" alt="JavaScript" class="icon">
-        <a href="" target="_blank"><strong>JavaScript</strong></a>:.
-    </li>
-    <li class="list-item">
-        <img src="Icon/Java.svg" alt="Java" class="icon">
-        <a href="" target="_blank"><strong>Java</strong></a>:.
-    </li>
-    <li class="list-item">
-        <img src="Icon/matlab.svg" alt="matlab" class="icon">
-        <a href="" target="_blank"><strong>Matlab</strong></a>:.
-    </li>
-    <li class="list-item">
-        <img src="Icon/zig.svg" alt="Zig" class="icon">
-        <a href="" target="_blank"><strong>Zig</strong></a>:.
-    </li>
-</ul>
+- ![Unity Logo](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) [**Unity**](https://docs.unity.com/): Un motor de juegos multiplataforma que se utiliza para crear videojuegos 2D y 3D, simulaciones, y aplicaciones interactivas.
 
-###
-- Frameworks:
-<ul>
-    <li class="list-item">
-		<img src="Icon\DotNet.svg" alt=".Net" class="icon">
-		<a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
-			<strong>.NET</strong></a>: .
-	</li>
-    <li class="list-item">
-        <img src="Icon/Angular.svg" alt="Angular" class="icon">
-        <a href="https://angular.io/" target="_blank"><strong>Angular</strong></a>: Un framework de desarrollo web basado en TypeScript.
-    </li>
-    <li class="list-item">
-        <img src="Icon/Django.svg" alt="Django" class="icon">
-        <a href="https://www.djangoproject.com/" target="_blank"><strong>Django</strong></a>: Un framework de alto nivel para el desarrollo web en Python.
-    </li>
-    <li class="list-item">
-        <img src="Icon/Flutter.svg" alt="Flutter" class="icon">
-        <a href="https://flutter.dev/" target="_blank"><strong>Flutter</strong></a>: Un framework de código abierto para crear aplicaciones nativas multiplataforma.
-    </li>
-    <li class="list-item">
-        <img src="Icon/React.svg" alt="React" class="icon">
-        <a href="https://reactjs.org/" target="_blank"><strong>React</strong></a>: Una biblioteca de JavaScript para construir interfaces de usuario.
-    </li>
-    <li class="list-item">
-        <img src="Icon/Electron.svg" alt="Electron" class="icon">
-        <a href=""_blank"><strong>Electron</strong></a>: .
-    </li>
-</ul>
+- ![Unreal Logo](https://img.shields.io/badge/-Unreal-313131?style=flat&logo=unreal-engine&logoColor=white) [**Unreal**](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation): Un motor de juegos desarrollado por Epic Games que se utiliza para crear videojuegos 2D y 3D, simulaciones, y experiencias interactivas.
 
-- Gestores de bases de datos:  
-<ul>
-    <li class="list-item">
-        <img src="Icon/MongoDB.svg" alt="MongoDB" class="icon">
-        <a href="https://www.mongodb.com/es" target="_blank"><strong>MongoDB</strong></a>: Una base de datos NoSQL orientada a documentos.
-    </li>
-    <li class="list-item">
-        <img src="Icon/mysql.svg" alt="MySQL" class="icon">
-        <a href="https://www.mysql.com/" target="_blank"><strong>MySQL</strong></a>: Un sistema de gestión de bases de datos relacionales de código abierto.
-    </li>
-    <li class="list-item">
-        <img src="Icon/MariaDB.svg" alt="MariaDB" class="icon">
-        <a href="https://mariadb.org/" target="_blank"><strong>MariaDB</strong></a>: Un sistema de gestión de bases de datos relacionales de código abierto, bifurcado de MySQL.
-    </li>
-</ul>
+### Otras herramientas útiles
 
-- Motores:  
-<ul>
-    <li class="list-item">
-		<img src="Icon\Godot.png" alt="Godot" class="icon">
-		<a href="https://docs.godotengine.org/en/stable/" target="_blank">
-			<strong>Godot</strong></a>: Un motor de juegos de código abierto.
-	</li>
-    <li class="list-item">
-		<img src="Icon\Unity.svg" alt="Unity" class="icon">
-		<a href="https://docs.unity.com/" target="_blank">
-			<strong>Unity</strong></a>: Un motor de juegos multiplataforma.
-	</li>
-    <li class="list-item">
-		<img src="Icon\Unreal.svg" alt="Unreal" class="icon">
-		<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation" target="_blank">
-			<strong>Unreal</strong></a>: Un motor de juegos desarrollado por Epic Games.
-	</li>
-</ul>
+- ![Adobe Logo](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white) [**Adobe**](https://www.adobe.com/): Una suite de software de diseño gráfico, edición de vídeo y desarrollo web utilizada por profesionales creativos en todo el mundo.
 
-- Otras herramientas útiles:
-<ul>
-    <li class="list-item">
-		<img src="Icon/Adobe.svg" alt="Adobe" class="icon">
-		<a href="" target="_blank">
-			<strong>Adobe</strong></a>: Una suite de software de diseño gráfico, edición de vídeo y desarrollo web.
-	</li>
-    <li class="list-item">
-		<img src="Icon/Apache.svg" alt="Office" class="icon">
-		<a href="" target="_blank">
-			<strong>Open Office Suite</strong></a>: Una suite de oficina de código abierto.
-	</li>
-    <li class="list-item">
-		<img src="Icon/Office.svg" alt="Microsoft" class="icon">
-		<a href="" target="_blank">
-			<strong>Microsoft 356</strong></a>: Una suite de productividad de Microsoft.
-	</li>
-    <li class="list-item">
-		<img src="Icon/Blender.svg" alt="Blender" class="icon">
-		<a href="" target="_blank">
-			<strong>Blender </strong></a>: Un software de diseño y modelado 3D de código abierto.
-	</li>
-    <li class="list-item">
-        <img src="Icon/git.svg" alt="Git" class="icon">
-        <a href="https://git-scm.com/" target="_blank"><strong>Git</strong></a>: Un sistema de control de versiones distribuido.
-    </li>
-</ul>
+- ![Open Office Suite Logo](https://img.shields.io/badge/-Open_Office_Suite-0E6B3A?style=flat&logo=open-office&logoColor=white) [**Open Office Suite**](https://www.openoffice.org/): Una suite de oficina de código abierto que incluye procesador de texto, hoja de cálculo, presentaciones, y más.
+
+- ![Microsoft 365 Logo](https://img.shields.io/badge/-Microsoft_365-2B579A?style=flat&logo=microsoft&logoColor=white) [**Microsoft 365**](https://www.microsoft.com/en-us/microsoft-365): Una suite de productividad de Microsoft que incluye aplicaciones de oficina, almacenamiento en la nube, y herramientas de colaboración.
+
+- ![Blender Logo](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white) [**Blender**](https://www.blender.org/): Un software de diseño y modelado 3D de código abierto utilizado en animación, efectos visuales, y videojuegos.
+
+- ![Git Logo](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) [**Git**](https://git-scm.com/): Un sistema de control de versiones distribuido utilizado para rastrear cambios en el código fuente durante el desarrollo de software.
 
 ## Mi IDE
 <div>
