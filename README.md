@@ -15,7 +15,7 @@ Una extensión de C con características de programación orientada a objetos. U
 ![C# Logo](Icon/C_Sharp.svg)
 Un lenguaje de programación moderno y orientado a objetos desarrollado por Microsoft. Es ampliamente utilizado en el desarrollo de aplicaciones de escritorio, aplicaciones web y juegos. Pulse aquí para leer más sobre [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/).
 
-![Python Logo](Icon/Python.svg)
+![Python Logo](Icon/Python.svg)  
 Un lenguaje de programación de alto nivel, conocido por su sintaxis clara y legible. Es ampliamente utilizado en desarrollo web, análisis de datos, inteligencia artificial y automatización de tareas. Pulse aquí para leer más sobre [**Python**](https://www.python.org/doc/).
 
 ![Rust Logo](Icon/Rust.svg)  
