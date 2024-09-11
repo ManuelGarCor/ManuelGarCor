@@ -21,6 +21,14 @@ Un lenguaje de programación de alto nivel, conocido por su sintaxis clara y leg
 ![Rust Logo](Icon/Rust.svg)  
 Un lenguaje de programación de sistemas que se centra en la seguridad y el rendimiento. Es ampliamente utilizado en el desarrollo de software de alto rendimiento y sistemas críticos. Pulse aquí para leer más sobre [**Rust**](https://doc.rust-lang.org/book/).
 
+![Swift Logo](Icon/Swift.svg)  
+Un lenguaje de programación moderno desarrollado por Apple para el desarrollo de aplicaciones iOS, macOS, watchOS y tvOS. Pulse aquí para leer más sobre [**Swift**](https://swift.org/documentation/).
+
+![HTML Logo](Icon/HTML.svg)  
+Un lenguaje de marcado utilizado en el desarrollo web para estructurar y presentar contenido. Es la base de cualquier página web y se utiliza junto con CSS y JavaScript. Pulse aquí para leer más sobre [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML).
+
+![CSS Logo](Icon/CSS.svg)  
+Un lenguaje de estilos utilizado en el desarrollo web para dar estilo y diseño a las páginas HTML. Es esencial para crear páginas web atractivas y responsivas. Pulse aquí para leer más sobre [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS).
 
 
 
