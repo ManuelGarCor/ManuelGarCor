@@ -9,7 +9,7 @@ Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el g
 ![C Logo](Icon/C_Icon.svg)  
 Un lenguaje de programación de propósito general, conocido por su eficiencia y control sobre los recursos del sistema. Es ampliamente utilizado en sistemas embebidos y desarrollo de sistemas operativos. Pulse aquí para leer más sobre [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf).
 
-![C++ Logo](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![C++ Logo](Icon/C_Plus.svg)  
 Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real. Pulse aquí para leer más sobre [**C++**](https://en.cppreference.com/w/cpp).
 
 
