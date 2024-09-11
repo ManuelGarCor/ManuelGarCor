@@ -6,10 +6,7 @@ Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el g
 
 ### Lenguajes de programación
 
-![Assembly Logo](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assembly&logoColor=white)  
-Un lenguaje de bajo nivel usado para programación cercana al hardware. Es fundamental para entender cómo interactúa el software con el hardware a nivel de instrucciones. Pulse aquí para leer más sobre [**Assembly**](https://en.wikipedia.org/wiki/Assembly_language).
-
-![C Logo](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=black&style=flat-square)  
+![C Logo](Icon/C_Icon.svg)  
 Un lenguaje de programación de propósito general, conocido por su eficiencia y control sobre los recursos del sistema. Es ampliamente utilizado en sistemas embebidos y desarrollo de sistemas operativos. Pulse aquí para leer más sobre [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf).
 
 ![C++ Logo](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
@@ -44,7 +41,9 @@ Una extensión de C con características de programación orientada a objetos. U
 
 ## About me
 
-...  
+... 
+![Assembly Logo](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assembly&logoColor=white)  
+Un lenguaje de bajo nivel usado para programación cercana al hardware. Es fundamental para entender cómo interactúa el software con el hardware a nivel de instrucciones. Pulse aquí para leer más sobre [**Assembly**](https://en.wikipedia.org/wiki/Assembly_language). 
 
 ## Mis conocimientos
 
