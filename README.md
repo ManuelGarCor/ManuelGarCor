@@ -6,15 +6,20 @@ Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el g
 
 ### Lenguajes de programación
 
-![C Logo](Icon/C_Icon.svg)  
+![C Logo](Icon/C_Icon.svg)
 Un lenguaje de programación de propósito general, conocido por su eficiencia y control sobre los recursos del sistema. Es ampliamente utilizado en sistemas embebidos y desarrollo de sistemas operativos. Pulse aquí para leer más sobre [**C**](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf).
 
-![C++ Logo](Icon/C_Plus.svg)  
+![C++ Logo](Icon/C_Plus.svg)
 Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real. Pulse aquí para leer más sobre [**C++**](https://en.cppreference.com/w/cpp).
 
-![C# Logo](Icon/C_Sharp.svg)  
+![C# Logo](Icon/C_Sharp.svg)
 Un lenguaje de programación moderno y orientado a objetos desarrollado por Microsoft. Es ampliamente utilizado en el desarrollo de aplicaciones de escritorio, aplicaciones web y juegos. Pulse aquí para leer más sobre [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/).
 
+![Python Logo](Icon/Python.svg)
+Un lenguaje de programación de alto nivel, conocido por su sintaxis clara y legible. Es ampliamente utilizado en desarrollo web, análisis de datos, inteligencia artificial y automatización de tareas. Pulse aquí para leer más sobre [**Python**](https://www.python.org/doc/).
+
+![Rust Logo](Icon/Rust.svg)  
+Un lenguaje de programación de sistemas que se centra en la seguridad y el rendimiento. Es ampliamente utilizado en el desarrollo de software de alto rendimiento y sistemas críticos. Pulse aquí para leer más sobre [**Rust**](https://doc.rust-lang.org/book/).
 
 
 
