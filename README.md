@@ -1,4 +1,4 @@
-# ![GitHub Badge](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=black) Bienvenid@ a mi perfil de GitHub
+# ![GitHub Badge](Icon/GitHub_Header.svg) Bienvenid@ a mi perfil de GitHub
 
 Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática.
 
