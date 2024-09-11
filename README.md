@@ -12,6 +12,8 @@ Un lenguaje de programación de propósito general, conocido por su eficiencia y
 ![C++ Logo](Icon/C_Plus.svg)  
 Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real. Pulse aquí para leer más sobre [**C++**](https://en.cppreference.com/w/cpp).
 
+![C# Logo](Icon\C_Sharp.svg)
+Un lenguaje de programación moderno y orientado a objetos desarrollado por Microsoft. Es ampliamente utilizado en el desarrollo de aplicaciones de escritorio, aplicaciones web y juegos. Pulse aquí para leer más sobre [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/).
 
 
 
