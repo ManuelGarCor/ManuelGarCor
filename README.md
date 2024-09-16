@@ -12,7 +12,7 @@ Un lenguaje de programación de propósito general, conocido por su eficiencia y
 ![C++ Logo](Icon/C_Plus.svg)  
 Una extensión de C con características de programación orientada a objetos. Usado en desarrollo de software de alto rendimiento, juegos, motores gráficos, y aplicaciones de tiempo real. Pulse aquí para leer más sobre [**C++**](https://en.cppreference.com/w/cpp).
 
-![C# Logo](Icon/C_Sharp.svg)
+![C# Logo](Icon/C_Sharp.svg)  
 Un lenguaje de programación moderno y orientado a objetos desarrollado por Microsoft. Es ampliamente utilizado en el desarrollo de aplicaciones de escritorio, aplicaciones web y juegos. Pulse aquí para leer más sobre [**C#**](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/).
 
 ![Python Logo](Icon/Python.svg)  
@@ -30,8 +30,24 @@ Un lenguaje de marcado utilizado en el desarrollo web para estructurar y present
 ![CSS Logo](Icon/CSS.svg)  
 Un lenguaje de estilos utilizado en el desarrollo web para dar estilo y diseño a las páginas HTML. Es esencial para crear páginas web atractivas y responsivas. Pulse aquí para leer más sobre [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS).
 
+![Shell Script](Icon/Bash.svg)  
+Un lenguaje de scripting utilizado en sistemas Unix y Linux para automatizar tareas y procesos. Es esencial para administrar sistemas y servidores. Pulse aquí para leer más sobre [**Shell Script**](https://www.gnu.org/software/bash/manual/bash.html).  
+
+![SQL Logo](Icon/sql.svg)  
+Un lenguaje de programación para gestionar bases de datos relacionales. Es ampliamente utilizado en el desarrollo de aplicaciones empresariales y sistemas de gestión de bases de datos. Pulse aquí para leer más sobre [**SQL**](https://www.w3schools.com/sql/).
+
+![JavaScript Logo](Icon/JavaScript.svg)  
+Un lenguaje de programación de alto nivel, interpretado por el navegador, que se utiliza para crear páginas web interactivas y dinámicas. Pulse aquí para leer más sobre [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript).  
+
+![Perl Logo](Icon/Perl.svg)  
+Un lenguaje de programación de propósito general, conocido por su capacidad para procesar texto y realizar tareas administrativas. Es ampliamente utilizado en el desarrollo web y la administración de sistemas. Pulse aquí para leer más sobre [**Perl**](https://www.perl.org/).
 
 
+
+
+
+![Java Logo](Icon/Java.svg)  
+Un lenguaje de programación de propósito general y orientado a objetos desarrollado por Sun Microsystems. Es ampliamente utilizado en el desarrollo de aplicaciones empresariales y móviles. Pulse aquí para leer más sobre [**Java**](https://docs.oracle.com/en/java/).  
 
 
 
