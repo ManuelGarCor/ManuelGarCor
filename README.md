@@ -93,7 +93,7 @@ Un sistema de gestión de bases de datos relacionales de código abierto, bifurc
 
 ### Motores de juegos
 
-![Godot Logo](Icon/Godot.png)  
+![Godot Logo](Icon/Godot.svg)  
 Un motor de juegos de código abierto que se utiliza para crear juegos 2D y 3D multiplataforma. Es ampliamente utilizado en el desarrollo de juegos indie y juegos comerciales. Pulse aquí para leer más sobre [**Godot**](https://docs.godotengine.org/en/stable/).
 
 ![Unity Logo](Icon/Unity.svg)  
@@ -104,7 +104,7 @@ Un motor de juegos desarrollado por Epic Games que se utiliza para crear juegos 
 
 ### Otras herramientas útiles
 
-![Git Logo](Icon/Git.svg)  
+![Git Logo](Icon/git.svg)  
 Un sistema de control de versiones distribuido que se utiliza para rastrear cambios en el código fuente durante el desarrollo de software. Es ampliamente utilizado en el desarrollo de software colaborativo. Pulse aquí para leer más sobre [**Git**](https://git-scm.com/doc).
 
 
