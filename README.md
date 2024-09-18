@@ -155,7 +155,11 @@ Un sistema operativo desarrollado por Microsoft que se utiliza en computadoras p
 ![Linux Logo](Icon/Linux.svg)  
 Un sistema operativo de código abierto basado en el kernel de Linux que se utiliza en servidores, supercomputadoras y dispositivos embebidos. Es ampliamente utilizado en el desarrollo de software y la administración de sistemas. Pulse aquí para leer más sobre [**Linux**](https://www.linux.org/). En mi caso, uso la distribución [**Arch Linux**](https://wiki.archlinux.org/), que es una distribución de Linux avanzada y personalizable, lo que me permite adaptarla a mis necesidades y preferencias.
 
+![Android Logo](Icon/Android.svg)  
+Un sistema operativo de código abierto basado en el kernel de Linux que se utiliza en dispositivos móviles y tabletas. Es ampliamente utilizado en el desarrollo de aplicaciones móviles y la administración de dispositivos. Pulse aquí para leer más sobre [**Android**](https://developer.android.com/).
 
+![iOS Logo](Icon/iOS.svg)  
+Un sistema operativo desarrollado por Apple que se utiliza en dispositivos móviles y tabletas. Es ampliamente utilizado en el desarrollo de aplicaciones móviles y la administración de dispositivos. Pulse aquí para leer más sobre [**iOS**](https://developer.apple.com/ios/).
 
 
 
