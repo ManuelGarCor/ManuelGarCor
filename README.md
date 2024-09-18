@@ -169,3 +169,8 @@ Uso la versión Insiders de VS Code porque es una versión preliminar que recibe
 Mis extensiones favoritas son:  
 
 **Work in progress...**
+
+## Resumen de los conocimientos
+
+![C Logo](Icon/C_Icon.svg) ![C++ Logo](Icon/C_Plus.svg) ![C# Logo](Icon/C_Sharp.svg) ![Python Logo](Icon/Python.svg) ![Rust Logo](Icon/Rust.svg) ![Swift Logo](Icon/Swift.svg) ![HTML Logo](Icon/HTML.svg) ![CSS Logo](Icon/CSS.svg) ![Shell Script](Icon/Bash.svg) ![SQL Logo](Icon/sql.svg) ![JavaScript Logo](Icon/JavaScript.svg) ![TypeScript Logo](Icon/TypeScript.svg) ![Perl Logo](Icon/Perl.svg) ![Matlab Logo](Icon/matlab.svg) ![Zig Logo](Icon/zig.svg) ![Assembly Logo](Icon/ASM.svg) ![Java Logo](Icon/Java.svg) ![Prolog Logo](Icon/ProLog.svg) ![.NET Logo](Icon/DotNet.svg) ![Angular Logo](Icon/Angular.svg) ![Django Logo](Icon/Django.svg) ![Flutter Logo](Icon/Flutter.svg) ![React Logo](Icon/React.svg) ![Electron Logo](Icon/Electron.svg) ![Node.js Logo](Icon/nodejs.svg) ![MongoDB Logo](Icon/MongoDB.svg) ![MySQL Logo](Icon/mysql.svg) ![MariaDB Logo](Icon/MariaDB.svg) ![SurrealDB Logo](Icon/SurrealDB.svg) ![Godot Logo](Icon/Godot.svg) ![Unity Logo](Icon/Unity.svg) ![Unreal Logo](Icon/Unreal.svg) ![Git Logo](Icon/git.svg) ![GitHub Logo](Icon/GitHub.svg) ![Docker Logo](Icon/Docker.svg) ![Adobe Logo](Icon/Adobe.svg) ![Blender Logo](Icon/Blender.svg) ![Figma Logo](Icon/Figma.svg) ![Apache Logo](Icon/Apache.svg) ![Office Logo](Icon/Office.svg) ![Visual Studio Code Logo](Icon/VS%20Insiders.svg) ![Kate Logo](Icon/Kate.svg) ![OpenSSL Logo](Icon/OpenSSL.svg) ![OpenPGP Logo](Icon/OpenPGP.svg) ![Windows Logo](Icon/Windows.svg) ![Linux Logo](Icon/Linux.svg) ![Android Logo](Icon/Android.svg) ![MacOS Logo](Icon/MacOS.svg)
+
