@@ -57,6 +57,9 @@ Un lenguaje de bajo nivel utilizado para programación cercana al hardware. Es f
 ![Java Logo](Icon/Java.svg)  
 Un lenguaje de programación de propósito general y orientado a objetos desarrollado por Sun Microsystems. Es ampliamente utilizado en el desarrollo de aplicaciones empresariales y móviles. Pulse aquí para leer más sobre [**Java**](https://docs.oracle.com/en/java/).  
 
+![Prolog Logo](Icon/ProLog.svg)  
+Un lenguaje de programación lógica utilizado en inteligencia artificial y procesamiento de lenguaje natural. Es ampliamente utilizado en la resolución de problemas lógicos y la inferencia de conocimientos. Pulse aquí para leer más sobre [**Prolog**](https://www.swi-prolog.org/).
+
 ### Frameworks
 
 ![.NET Logo](Icon/DotNet.svg)  
@@ -90,6 +93,9 @@ Un sistema de gestión de bases de datos relacionales de código abierto que se 
 
 ![MariaDB Logo](Icon/MariaDB.svg)  
 Un sistema de gestión de bases de datos relacionales de código abierto, bifurcado de MySQL, que se utiliza para almacenar y gestionar datos relacionales. Es ampliamente utilizado en el desarrollo de aplicaciones web y aplicaciones empresariales. Pulse aquí para leer más sobre [**MariaDB**](https://mariadb.org/).
+
+![SurrealDB Logo](Icon/SurrealDB.svg)  
+Un sistema de gestión de bases de datos distribuidas de código abierto que se utiliza para almacenar y gestionar datos distribuidos. Es ampliamente utilizado en el desarrollo de aplicaciones web y aplicaciones empresariales. Pulse aquí para leer más sobre [**SurrealDB**](https://surrealdb.com/).
 
 ### Motores de juegos
 
@@ -133,6 +139,12 @@ Un editor de código de código abierto desarrollado por Microsoft que se utiliz
 
 ![Kate Logo](Icon/Kate.svg)  
 Un editor de texto avanzado de código abierto que se utiliza para escribir y editar código fuente. Es ampliamente utilizado en el desarrollo de software y la administración de archivos. Pulse aquí para leer más sobre [**Kate**](https://kate-editor.org/).
+
+![OpenSSL Logo](Icon/OpenSSL.svg)  
+Una biblioteca de cifrado de código abierto que se utiliza para implementar protocolos de seguridad en aplicaciones web y servicios en la nube. Es ampliamente utilizado en el desarrollo de software y la administración de sistemas. Pulse aquí para leer más sobre [**OpenSSL**](https://www.openssl.org/docs/).
+
+![OpenPGP Logo](Icon/OpenPGP.svg)  
+
 
 ### Sistemas operativos  
 
