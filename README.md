@@ -107,6 +107,26 @@ Un motor de juegos desarrollado por Epic Games que se utiliza para crear juegos 
 ![Git Logo](Icon/git.svg)  
 Un sistema de control de versiones distribuido que se utiliza para rastrear cambios en el código fuente durante el desarrollo de software. Es ampliamente utilizado en el desarrollo de software colaborativo. Pulse aquí para leer más sobre [**Git**](https://git-scm.com/doc).
 
+![Docker Logo](Icon/Docker.svg)  
+Una plataforma de contenedores que se utiliza para empaquetar, distribuir y ejecutar aplicaciones en entornos aislados. Es ampliamente utilizado en el desarrollo de software y la administración de sistemas. Pulse aquí para leer más sobre [**Docker**](https://docs.docker.com/).
+
+![Adobe Logo](Icon/Adobe.svg)  
+Un conjunto de aplicaciones de software creativas desarrolladas por Adobe que se utilizan para crear contenido digital, gráficos y diseño. Es ampliamente utilizado en el diseño gráfico, la edición de fotos y el diseño web. Pulse aquí para leer más sobre [**Adobe**](https://helpx.adobe.com/support.html).
+
+![Blender Logo](Icon/Blender.svg)  
+Un software de modelado, animación y renderizado 3D de código abierto que se utiliza para crear contenido 3D, animaciones y efectos visuales. Es ampliamente utilizado en la producción de películas, juegos y animaciones. Pulse aquí para leer más sobre [**Blender**](https://docs.blender.org/).
+
+![Figma Logo](Icon/Figma.svg)  
+Una herramienta de diseño de interfaz de usuario basada en la web que se utiliza para crear prototipos, maquetas y diseños de aplicaciones y sitios web. Es ampliamente utilizado en el diseño de productos digitales y la colaboración en equipo. Pulse aquí para leer más sobre [**Figma**](https://www.figma.com/).
+
+![Apache Logo](Icon/Apache.svg)  
+Un servidor web de código abierto que se utiliza para alojar sitios web y aplicaciones web. Es ampliamente utilizado en el desarrollo web y la administración de servidores. Pulse aquí para leer más sobre [**Apache**](https://httpd.apache.org/docs/).
+
+![Office Logo](Icon/Office.svg)  
+Un conjunto de aplicaciones de productividad desarrolladas por Microsoft que se utilizan para crear documentos, hojas de cálculo y presentaciones. Es ampliamente utilizado en el trabajo de oficina y la colaboración en equipo. Pulse aquí para leer más sobre [**Office**](https://support.microsoft.com/en-us/office).
+
+
+
 
 
 ## Mi IDE
