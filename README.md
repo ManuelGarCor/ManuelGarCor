@@ -144,6 +144,7 @@ Un editor de texto avanzado de código abierto que se utiliza para escribir y ed
 Una biblioteca de cifrado de código abierto que se utiliza para implementar protocolos de seguridad en aplicaciones web y servicios en la nube. Es ampliamente utilizado en el desarrollo de software y la administración de sistemas. Pulse aquí para leer más sobre [**OpenSSL**](https://www.openssl.org/docs/).
 
 ![OpenPGP Logo](Icon/OpenPGP.svg)  
+Un estándar de cifrado de código abierto que se utiliza para proteger la privacidad y la seguridad de la información. Es ampliamente utilizado en el cifrado de correos electrónicos y la firma digital. Pulse aquí para leer más sobre [**OpenPGP**](https://tools.ietf.org/html/rfc4880).
 
 
 ### Sistemas operativos  
