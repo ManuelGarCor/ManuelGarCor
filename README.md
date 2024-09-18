@@ -125,6 +125,20 @@ Un servidor web de código abierto que se utiliza para alojar sitios web y aplic
 ![Office Logo](Icon/Office.svg)  
 Un conjunto de aplicaciones de productividad desarrolladas por Microsoft que se utilizan para crear documentos, hojas de cálculo y presentaciones. Es ampliamente utilizado en el trabajo de oficina y la colaboración en equipo. Pulse aquí para leer más sobre [**Office**](https://support.microsoft.com/en-us/office).
 
+![Visual Studio Code Logo](Icon/VS%20Insiders.svg)  
+Un editor de código de código abierto desarrollado por Microsoft que se utiliza para escribir y editar código fuente. Es ampliamente utilizado en el desarrollo de software y la administración de archivos. Pulse aquí para leer más sobre [**Visual Studio Code**](https://code.visualstudio.com/). Es mi IDE preferido, y a continuación explico cómo está configurado para mi uso, junto al por qué lo prefiero.
+
+![Kate Logo](Icon/Kate.svg)  
+Un editor de texto avanzado de código abierto que se utiliza para escribir y editar código fuente. Es ampliamente utilizado en el desarrollo de software y la administración de archivos. Pulse aquí para leer más sobre [**Kate**](https://kate-editor.org/).
+
+### Sistemas operativos  
+
+![Windows Logo](Icon/Windows.svg)  
+Un sistema operativo desarrollado por Microsoft que se utiliza en computadoras personales, servidores y dispositivos móviles. Es ampliamente utilizado en el trabajo de oficina y la administración de sistemas. Pulse aquí para leer más sobre [**Windows**](https://support.microsoft.com/en-us/windows).
+
+![Linux Logo](Icon/Linux.svg)  
+Un sistema operativo de código abierto basado en el kernel de Linux que se utiliza en servidores, supercomputadoras y dispositivos embebidos. Es ampliamente utilizado en el desarrollo de software y la administración de sistemas. Pulse aquí para leer más sobre [**Linux**](https://www.linux.org/). En mi caso, uso la distribución [**Arch Linux**](https://wiki.archlinux.org/), que es una distribución de Linux avanzada y personalizable, lo que me permite adaptarla a mis necesidades y preferencias.
+
 
 
 
