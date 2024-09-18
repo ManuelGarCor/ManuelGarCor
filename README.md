@@ -1,4 +1,4 @@
-# ![GitHub Badge](Icon/GitHub_Header.svg) Bienvenid@ a mi perfil de GitHub
+# Bienvenid@ a mi perfil de GitHub
 
 Soy Manuel García, actualmente, en la Universidad de Salamanca, estudiando el grado de Ingeniería Informática.
 
@@ -37,7 +37,7 @@ Un lenguaje de scripting utilizado en sistemas Unix y Linux para automatizar tar
 Un lenguaje de programación para gestionar bases de datos relacionales. Es ampliamente utilizado en el desarrollo de aplicaciones empresariales y sistemas de gestión de bases de datos. Pulse aquí para leer más sobre [**SQL**](https://www.w3schools.com/sql/).
 
 ![JavaScript Logo](Icon/JavaScript.svg)  
-Un lenguaje de programación de alto nivel, interpretado por el navegador, que se utiliza para crear páginas web interactivas y dinámicas. Pulse aquí para leer más sobre [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript). 
+Un lenguaje de programación de alto nivel, interpretado por el navegador, que se utiliza para crear páginas web interactivas y dinámicas. Pulse aquí para leer más sobre [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
 ![TypeScript Logo](Icon/TypeScript.svg)  
 Un lenguaje de programación de código abierto desarrollado por Microsoft que es un superconjunto de JavaScript. Es ampliamente utilizado en el desarrollo de aplicaciones web y móviles. Pulse aquí para leer más sobre [**TypeScript**](https://www.typescriptlang.org/docs/).
@@ -146,7 +146,6 @@ Una biblioteca de cifrado de código abierto que se utiliza para implementar pro
 ![OpenPGP Logo](Icon/OpenPGP.svg)  
 Un estándar de cifrado de código abierto que se utiliza para proteger la privacidad y la seguridad de la información. Es ampliamente utilizado en el cifrado de correos electrónicos y la firma digital. Pulse aquí para leer más sobre [**OpenPGP**](https://tools.ietf.org/html/rfc4880).
 
-
 ### Sistemas operativos  
 
 ![Windows Logo](Icon/Windows.svg)  
@@ -158,20 +157,15 @@ Un sistema operativo de código abierto basado en el kernel de Linux que se util
 ![Android Logo](Icon/Android.svg)  
 Un sistema operativo de código abierto basado en el kernel de Linux que se utiliza en dispositivos móviles y tabletas. Es ampliamente utilizado en el desarrollo de aplicaciones móviles y la administración de dispositivos. Pulse aquí para leer más sobre [**Android**](https://developer.android.com/).
 
-![iOS Logo](Icon/iOS.svg)  
-Un sistema operativo desarrollado por Apple que se utiliza en dispositivos móviles y tabletas. Es ampliamente utilizado en el desarrollo de aplicaciones móviles y la administración de dispositivos. Pulse aquí para leer más sobre [**iOS**](https://developer.apple.com/ios/).
+![MacOS Logo](Icon/MacOS.svg)  
+Un sistema operativo desarrollado por Apple que se utiliza en computadoras Mac y dispositivos móviles. Es ampliamente utilizado en el desarrollo de software y la administración de sistemas. Pulse aquí para leer más sobre [**MacOS**](https://support.apple.com/macos).
 
+## Mi configuración de Visual Studio Code
 
+Visual Studio Code - Insiders (VS Code) es mi IDE porque es increíblemente versátil y se adapta a una amplia variedad de lenguajes de programación. Gracias a su amplia gama de extensiones y funciones, puedo personalizarlo para que se ajuste a mis necesidades y preferencias. Aquí te cuento cómo está configurado mi VS Code y por qué me resulta tan útil:
 
-## Mi IDE
-<div>
-	<img src="Icon\VS Insiders.png" alt="Visual Studio Code - Insiders" class="main-logo"/>
-	<br>
-</div>
-Visual Studio Code - Insiders (VS Code) es mi IDE porque es increíblemente versátil y se adapta a una amplia variedad de lenguajes de programación. Aquí te cuento por qué me resulta tan útil:
-  
-  - Soporte Multilenguaje:
-  - Funciones útiles:
-  - Extensiones:
-  
-Uso la versión Insiders de VS Code porque es una versión preliminar que recibe actualizaciones diarias con las últimas características y correcciones de errores. Es ideal para mí, ya que quiero estar a la vanguardia y probar las nuevas funcionalidades antes de que sean lanzadas en la versión estable.  
+Uso la versión Insiders de VS Code porque es una versión preliminar que recibe actualizaciones diarias con las últimas características y correcciones de errores. Es ideal para mí, ya que quiero estar a la vanguardia y probar las nuevas funcionalidades antes de que sean lanzadas en la versión estable.
+
+Mis extensiones favoritas son:  
+
+**Work in progress...**
