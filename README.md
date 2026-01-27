@@ -146,6 +146,9 @@ Una biblioteca de cifrado de código abierto que se utiliza para implementar pro
 ![OpenPGP Logo](Icon/OpenPGP.svg)  
 Un estándar de cifrado de código abierto que se utiliza para proteger la privacidad y la seguridad de la información. Es ampliamente utilizado en el cifrado de correos electrónicos y la firma digital. Pulse aquí para leer más sobre [**OpenPGP**](https://tools.ietf.org/html/rfc4880).
 
+![Microsoft Powertoys Logo](Icon/PowerToys.svg)  
+Un conjunto de utilidades de código abierto para Windows que se utilizan para mejorar la productividad y la experiencia del usuario. Es ampliamente utilizado en la personalización del sistema y la administración de archivos. Pulse aquí para leer más sobre [**Microsoft Powertoys**](https://docs.microsoft.com/en-us/windows/powertoys/).
+
 ### Sistemas operativos  
 
 ![Windows Logo](Icon/Windows.svg)  
@@ -188,13 +191,34 @@ En resumen, tengo experiencia en una amplia variedad de lenguajes de programaci�
 
 ![Adobe Logo](Icon/Adobe.svg) ![Apache Logo](Icon/Apache.svg) ![Blender Logo](Icon/Blender.svg) ![Docker Logo](Icon/Docker.svg)  
 ![Figma Logo](Icon/Figma.svg) ![Git Logo](Icon/git.svg) ![GitHub Logo](Icon/GitHub.svg) ![Kate Logo](Icon/Kate.svg)  
-![Office Logo](Icon/Office.svg) ![OpenPGP Logo](Icon/OpenPGP.svg) ![OpenSSL Logo](Icon/OpenSSL.svg) ![Visual Studio Code Logo](Icon/VS%20Insiders.svg)
+![Office Logo](Icon/Office.svg) ![OpenPGP Logo](Icon/OpenPGP.svg) ![OpenSSL Logo](Icon/OpenSSL.svg) ![Visual Studio Code Logo](Icon/VS%20Insiders.svg)  
+![Microsoft Powertoys Logo](Icon/PowerToys.svg)
 
 ![Android Logo](Icon/Android.svg) ![Linux Logo](Icon/Linux.svg) ![MacOS Logo](Icon/Apple.svg) ![Windows Logo](Icon/Windows.svg)
+
+## Logros académicos  
+
+- Graduado en Ingeniería Informática por la Universidad de Salamanca (2021-2025).
+  - TFG: "Cifrado de archivos mediante criptografía de curvas elípticas". Obtuve la calificación de 10/10 en convocatoria ordinaria, desarrollando un sistema seguro y eficiente para la protección de archivos, con implementación práctica y documentación exhaustiva.
+- Máster Universitario en Sistemas Inteligentes (2025-2026) (en curso).
+  - Enfocado en inteligencia artificial, aprendizaje automático, visión por computador y sistemas autónomos.
+- Participación como investigador en verano de 2024 en el grupo de investigación ESALab de la Universidad de Salamanca.
+  - Desarrollo de una aplicación para controlar un ordenador mediante el movimiento ocular, utilizando una cámara de seguimiento y técnicas avanzadas de visión por computador.
+  - Implementación de un sistema de robótica capaz de realizar tareas de alta precisión con sensores y actuadores, como servir bebidas o ensamblar pequeños puzles, integrando algoritmos de control y procesamiento de señales.
+  - Elaboración de documentación técnica detallada para cada proyecto, facilitando la transferencia de conocimiento y la reproducibilidad de los resultados.
+- Participación en el Space Cybersecurity Hackathon (2025).
+  - Mentor de equipos participantes, guiando en el desarrollo de criptosistemas y en la aplicación de buenas prácticas de seguridad informática.
+  - Apoyo en el diseño y desarrollo de soluciones seguras, empleando criptografía de curvas elípticas y otras técnicas avanzadas, así como en la resolución de problemas de código y arquitectura de sistemas.
 
 ## 📫 Cómo contactar conmigo
 
 **Work in progress...**
 
 Gracias por visitar mi perfil. ¡Espero que hayas encontrado útil la información proporcionada!
-![Thank You](Icon/Thank_You.svg)
+
+FAILED: default_for_rust_host_build_tools/prebuilt_rustc_sysroot/lib/rustlib/x86_64-unknown-linux-gnu/lib/libadler.rlib 
+ln -f default_for_rust_host_build_tools/obj/build/rust/std/libadler.rlib default_for_rust_host_build_tools/prebuilt_rustc_sysroot/lib/rustlib/x86_64-unknown-linux-gnu/lib/libadler.rlib 2>/dev/null || (rm -rf default_for_rust_host_build_tools/prebuilt_rustc_sysroot/lib/rustlib/x86_64-unknown-linux-gnu/lib/libadler.rlib && cp -af default_for_rust_host_build_tools/obj/build/rust/std/libadler.rlib default_for_rust_host_build_tools/prebuilt_rustc_sysroot/lib/rustlib/x86_64-unknown-linux-gnu/lib/libadler.rlib)
+cp: cannot stat 'default_for_rust_host_build_tools/obj/build/rust/std/libadler.rlib': No such file or directory
+[455/39677] ACTION //third_party/devtools-frontend/...e/sdk:sdk(//build/toolchain/linux/unbundle:default)
+ninja: build stopped: subcommand failed.
+==> ERROR: A failure occurred in build().
