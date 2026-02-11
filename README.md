@@ -10,28 +10,34 @@
 
 </div>
 
----
-
-### Sobre mí
+## Sobre mí
 
 ---
 
-### Líneas de investigación
+## Líneas de investigación
 
-Actualmente desarrollo dos líneas de investigación paralelas en el ámbito de la seguridad computacional:
+Mi trabajo se sitúa en la intersección entre las matemáticas puras y la seguridad computacional. Actualmente desarrollo dos líneas de investigación paralelas en el ámbito de la seguridad computacional:
 
-#### Post-Quantum Cryptography (Isogenies)
+### 🔐 Criptografía Post-Cuántica: Isogenias
 
-Investigación centrada en la **teoría de grafos de isogenias supersingulares**.
+Evolucionando desde ECC (Elliptic Curve Cryptography) hacia esquemas basados en isogenias supersingulares. Centrada en la **teoría de grafos de isogenias supersingulares**.
 
 * Estudio de la estructura de grafos de isogenias para la construcción de primitivas criptográficas resistentes a computación cuántica.
 * Transición desde protocolos ECC clásicos (ECDH/ECDSA) hacia esquemas basados en acciones de grupo y caminos en grafos de isogenias.
 
-#### Symmetric Security (S-Boxes & CA)
+### 🔐 Sistemas Complejos: Autómatas Celulares
 
-Análisis de propiedades criptográficas en primitivas simétricas mediante **Autómatas Celulares**.
+Análisis de propiedades criptográficas en primitivas simétricas mediante **Autómatas Celulares**. Investigación sobre comportamiento emergente y computabilidad en sistemas discretos.
 
 * Diseño y evaluación de **Cajas de Sustitución (S-Boxes)** dinámicas.
 * Estudio de propiedades booleanas críticas: No-linealidad, Criterio de Avalancha (SAC) y uniformidad diferencial en reglas de evolución de autómatas.
 
 ---
+
+## 📜 Fondo académico y proyectos
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelGarCor&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Stats" />
+</div>
