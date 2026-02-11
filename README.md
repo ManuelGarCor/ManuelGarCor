@@ -49,7 +49,7 @@ Implementación desde cero de un criptosistema seguro, evitando el uso de librer
 a los protocolos de cifrado.
 * Desarrollo de un sistema de cifrado funcional, implementación de una librería de aritmética de curvas elípticas y documentación detallada del proceso de diseño e implementación, incluyendo análisis de seguridad y rendimiento. Junto con la creación de una aplicación de escritorio para cifrado y descifrado de archivos, apoyándose en un servidor de claves para la gestión de usuarios y claves públicas.
 
-### 🎓 Investigación y desarrollo académico (TFG)
+### 🎓 Investigación y desarrollo académico (TFM)
 
 *Proyectos de final de máster. Universidad de Salamanca*
 
