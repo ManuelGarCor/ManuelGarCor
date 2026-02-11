@@ -38,7 +38,7 @@ Análisis de propiedades criptográficas en primitivas simétricas mediante **Au
 
 ### 🎓 Investigación y desarrollo académico (TFG)
 
-*Proyecto de final de grado. Universidad de Salamanca*
+*Proyecto de final de grado. Universidad de Salamanca*  
 
 > **Cifrado de archivos mediante criptografía de curvas elípticas.**
 > Calificación: 10 - Sobresaliente
@@ -52,9 +52,9 @@ Desarrollo de un sistema de cifrado funcional, implementación de una librería 
 
 ### 🎓 Investigación y desarrollo académico (TFM)
 
-*Proyectos de final de máster. Universidad de Salamanca*
+*Proyectos de final de máster. Universidad de Salamanca*  
 
-> **Título por determinar**
+> **Técnicas de aprendizaje por refuerzo en el ajuste de parámetros de curvas elípticas para criptografía**
 > Calificación: Por determinar
 
 To do
