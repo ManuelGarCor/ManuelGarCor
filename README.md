@@ -10,11 +10,11 @@
 
 </div>
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
 ---
 
-## Líneas de investigación
+## 🔬 Líneas de investigación
 
 Mi trabajo se sitúa en la intersección entre las matemáticas puras y la seguridad computacional. Actualmente desarrollo dos líneas de investigación paralelas en el ámbito de la seguridad computacional:
 
@@ -34,10 +34,40 @@ Análisis de propiedades criptográficas en primitivas simétricas mediante **Au
 
 ---
 
-## 📜 Fondo académico y proyectos
+## 📜 Trayectoria y Proyectos
+
+### 🎓 Investigación y Desarrollo Académico (TFG)
+
+*Proyectos de final de grado con rigor académico. Universidad de Salamanca*
+
+> **Cifrado de archivos mediante criptografía de curvas elípticas.**
+> Calificación: 10 - Sobresaliente
+
+Implementación desde cero de un criptosistema seguro, evitando el uso de librerías criptográficas de caja negra para garantizar la comprensión profunda de la aritmética subyacente. Utilización de curvas elípticas sobre cuerpos finitos para cifrado de archivos, con enfoque en la eficiencia y seguridad.
+
+* **Fundamento Matemático:** Operaciones en la estructura de grupo de puntos racionales de una curva sobre cuerpos finitos $\mathbb{F}_p$.
+* Desarrollo de un sistema de cifrado funcional, implementación de una librería de aritmética de curvas elípticas y documentación detallada del proceso de diseño e implementación, incluyendo análisis de seguridad y rendimiento. Junto con la creación de una aplicación de escritorio para cifrado y descifrado de archivos, apoyándose en un servidor de claves para la gestión de usuarios y claves públicas.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelGarCor&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Stats" />
-</div>
+### 🔬 Estancias de Investigación (Prácticas)
+
+*Colaboración en grupos de investigación y desarrollo de soluciones reales.*
+
+> **Investigador en ESALab (Verano 2024)**
+> *Laboratorio de Sistemas Inteligentes y Simulación*
+
+To do
+
+---
+
+### 🗣️ Mentoría y Eventos
+
+*Roles de liderazgo técnico, divulgación y guía en competiciones de seguridad.*
+
+> **Mentor de Criptografía - Space Cybersecurity Hackathon (2025)**
+> *Competición de Ciberseguridad Aeroespacial*
+
+To do
+
+---
