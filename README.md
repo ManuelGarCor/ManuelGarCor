@@ -47,7 +47,8 @@ Implementación desde cero de un criptosistema seguro, evitando el uso de librer
 
 * **Fundamento Matemático:** Operaciones en la estructura de grupo de puntos racionales de una curva sobre cuerpos finitos $\mathbb{F}_p$. Implementación de algoritmos de suma de puntos, multiplicación escalar y generación de claves, junto
 a los protocolos de cifrado.
-* Desarrollo de un sistema de cifrado funcional, implementación de una librería de aritmética de curvas elípticas y documentación detallada del proceso de diseño e implementación, incluyendo análisis de seguridad y rendimiento. Junto con la creación de una aplicación de escritorio para cifrado y descifrado de archivos, apoyándose en un servidor de claves para la gestión de usuarios y claves públicas.
+
+Desarrollo de un sistema de cifrado funcional, implementación de una librería de aritmética de curvas elípticas y documentación detallada del proceso de diseño e implementación, incluyendo análisis de seguridad y rendimiento. Junto con la creación de una aplicación de escritorio para cifrado y descifrado de archivos, apoyándose en un servidor de claves para la gestión de usuarios y claves públicas.
 
 ### 🎓 Investigación y desarrollo académico (TFM)
 
