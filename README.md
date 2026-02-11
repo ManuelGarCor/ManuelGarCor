@@ -77,8 +77,16 @@ To do
 *Roles de liderazgo técnico, divulgación y guía en competiciones de seguridad.*
 
 > **Mentor de Criptografía - Space Cybersecurity Hackathon (2025)**
-> *Competición de Ciberseguridad Aeroespacial*
+> *Competición de ciberseguridad y criptografía aplicada a la industria aeroespacial*
 
 To do
 
 ---
+
+<div align="center">
+
+### *"Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin."*
+
+  — John von Neumann
+
+</div>
