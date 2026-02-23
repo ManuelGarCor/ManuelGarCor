@@ -41,8 +41,7 @@ Análisis de propiedades criptográficas en primitivas simétricas mediante **Au
 *Proyecto de final de grado. Universidad de Salamanca*  
 
 > [!INFO]
-> **Cifrado de archivos mediante criptografía de curvas elípticas.**
-> Calificación: 10 - Sobresaliente
+> Cifrado de archivos mediante criptografía de curvas elípticas. Calificación: 10 - Sobresaliente
 
 Implementación desde cero de un criptosistema seguro, evitando el uso de librerías criptográficas de caja negra para garantizar la comprensión profunda de la aritmética subyacente. Utilización de curvas elípticas sobre cuerpos finitos para cifrado de archivos, con enfoque en la eficiencia y seguridad.
 
