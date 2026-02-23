@@ -59,6 +59,9 @@ Desarrollo de un sistema de cifrado funcional, implementación de una librería 
 
 To do
 
+> [!WARNING]
+> Este proyecto se encuentra en desarrollo. Próximamente se publicará un resumen detallado de los objetivos, metodología y resultados preliminares.
+
 ---
 
 ### 🔬 Estancias de Investigación (Prácticas)
