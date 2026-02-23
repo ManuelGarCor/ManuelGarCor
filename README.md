@@ -40,6 +40,7 @@ Análisis de propiedades criptográficas en primitivas simétricas mediante **Au
 
 *Proyecto de final de grado. Universidad de Salamanca*  
 
+> [!INFO]
 > **Cifrado de archivos mediante criptografía de curvas elípticas.**
 > Calificación: 10 - Sobresaliente
 
