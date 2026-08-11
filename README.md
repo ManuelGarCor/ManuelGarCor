@@ -55,12 +55,14 @@ Desarrollo de un sistema de cifrado funcional, implementación de una librería 
 *Proyectos de final de máster. Universidad de Salamanca*  
 
 > **Técnicas de aprendizaje por refuerzo en el ajuste de parámetros de curvas elípticas para criptografía**
-> Calificación: Por determinar
+> Calificación: 9.7 - Sobresaliente
 
-To do
+Investigación sobre la viabilidad del aprendizaje por refuerzo (RL) para la optimización automática de parámetros de dominio en criptografía de curvas elípticas (ECC), conforme al estándar SEC1. El problema se formuló como un Proceso de Decisión de Markov sobre el espacio de coeficientes de Weierstrass $(a, b)$, con una función de recompensa derivada del grado de cumplimiento de los siete criterios de seguridad de SEC1 (resistencia al ataque MOV, validez del cofactor, primalidad del orden, entre otros).
 
-> [!WARNING]
-> Este proyecto se encuentra en desarrollo. Próximamente se publicará un resumen detallado de los objetivos, metodología y resultados preliminares.
+* **Infraestructura desde cero:** desarrollo de un evaluador criptográfico nativo en C sin dependencias externas (validado con 76 tests unitarios) y de un entorno compatible con Gymnasium apoyado en una tabla precomputada de más de un millón de curvas sobre un cuerpo finito, alcanzando más de 100.000 evaluaciones por segundo en CPU convencional.
+* **Comparativa de algoritmos:** evaluación empírica de PPO, SAC y TD3 a lo largo de cuatro experimentos secuenciales, analizando la topografía del paisaje de recompensa y el impacto de codificar información posicional en el vector de observación.
+
+Los resultados muestran que PPO iguala a SAC en eficacia con una ventaja de un orden de magnitud en velocidad de cómputo, mientras que TD3 no logra converger a una política útil por las limitaciones de su discretización determinista sobre el espacio de acciones. Partiendo de una curva conocida pero insegura, el agente entrenado corrige el parámetro vulnerable con una única acción en dos de las tres semillas evaluadas, constituyendo una prueba de concepto reproducible de la viabilidad del RL como herramienta de optimización de parámetros criptográficos. El trabajo se documentó tanto en la memoria completa como en un artículo con formato de publicación científica, co-firmado junto al equipo de dirección del TFM.
 
 ---
 
