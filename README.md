@@ -59,6 +59,8 @@ Desarrollo de un sistema de cifrado funcional, implementación de una librería 
 
 Investigación sobre la viabilidad del aprendizaje por refuerzo (RL) para la optimización automática de parámetros de dominio en criptografía de curvas elípticas (ECC), conforme al estándar SEC1. El problema se formuló como un Proceso de Decisión de Markov sobre el espacio de coeficientes de Weierstrass $(a, b)$, con una función de recompensa derivada del grado de cumplimiento de los siete criterios de seguridad de SEC1 (resistencia al ataque MOV, validez del cofactor, primalidad del orden, entre otros).
 
+* **Vacío de investigación cubierto:** los enfoques previos en la literatura (algoritmos genéticos, optimización por enjambre de partículas) habían señalado explícitamente el uso de RL como una dirección necesaria pero nunca explorada para este problema. Este trabajo es el primero en aplicarlo a la optimización de parámetros ECC.
+
 * **Infraestructura desde cero:** desarrollo de un evaluador criptográfico nativo en C sin dependencias externas (validado con 76 tests unitarios) y de un entorno compatible con Gymnasium apoyado en una tabla precomputada de más de un millón de curvas sobre un cuerpo finito, alcanzando más de 100.000 evaluaciones por segundo en CPU convencional.
 * **Comparativa de algoritmos:** evaluación empírica de PPO, SAC y TD3 a lo largo de cuatro experimentos secuenciales, analizando la topografía del paisaje de recompensa y el impacto de codificar información posicional en el vector de observación.
 
