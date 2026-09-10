@@ -88,6 +88,11 @@ To do
 
 To do
 
+> **Mentor de Criptografía - Space Cybersecurity Hackathon (2026)**
+> *Competición de ciberseguridad y criptografía aplicada a la industria aeroespacial*
+
+To do
+
 ---
 
 <div align="center">
