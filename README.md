@@ -2,30 +2,32 @@
 
 <div align="center">
   
-  **Ingeniero Informático | Seguridad y Criptografía | Máster en Sistemas Inteligentes**  
+  **Doctorando en Informática | Ingeniero Informático | Máster en Sistemas Inteligentes**  
   *Universidad de Salamanca*
+
+  [![Email](https://img.shields.io/badge/Email-Contacto-red?logo=gmail)](mailto:ManuGaCoUSAL@proton.me)
 
   $$E: y^2 = x^3 + ax + b \pmod{p}$$
   $$\phi : E \to E' \quad \text{tal que} \quad \ker(\phi) = \langle P \rangle$$
 
 </div>
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 ---
 
-## 🔬 Líneas de investigación
+## Líneas de investigación
 
 Mi trabajo se sitúa en la intersección entre las matemáticas puras y la seguridad computacional. Actualmente desarrollo dos líneas de investigación paralelas en el ámbito de la seguridad computacional:
 
-### 🔐 Criptografía Post-Cuántica: Isogenias
+### Criptografía Post-Cuántica: Isogenias
 
 Evolucionando desde ECC (Elliptic Curve Cryptography) hacia esquemas basados en isogenias supersingulares. Centrada en la **teoría de grafos de isogenias supersingulares**.
 
 * Estudio de la estructura de grafos de isogenias para la construcción de primitivas criptográficas resistentes a computación cuántica.
 * Transición desde protocolos ECC clásicos (ECDH/ECDSA) hacia esquemas basados en acciones de grupo y caminos en grafos de isogenias.
 
-### 🔐 Sistemas Complejos: Autómatas Celulares
+### Sistemas Complejos: Autómatas Celulares
 
 Análisis de propiedades criptográficas en primitivas simétricas mediante **Autómatas Celulares**. Investigación sobre comportamiento emergente y computabilidad en sistemas discretos.
 
@@ -34,9 +36,9 @@ Análisis de propiedades criptográficas en primitivas simétricas mediante **Au
 
 ---
 
-## 📜 Trayectoria y Proyectos
+## Trayectoria y Proyectos
 
-### 🎓 Investigación y desarrollo académico (TFG)
+### Investigación y desarrollo académico (TFG)
 
 *Proyecto de final de grado. Universidad de Salamanca*  
 
@@ -50,7 +52,7 @@ a los protocolos de cifrado. Las curvas elípticas se definen por la ecuación $
 
 Desarrollo de un sistema de cifrado funcional, implementación de una librería de aritmética de curvas elípticas y documentación detallada del proceso de diseño e implementación, incluyendo análisis de seguridad y rendimiento. Junto con la creación de una aplicación de escritorio para cifrado y descifrado de archivos, apoyándose en un servidor de claves para la gestión de usuarios y claves públicas.
 
-### 🎓 Investigación y desarrollo académico (TFM)
+### Investigación y desarrollo académico (TFM)
 
 *Proyectos de final de máster. Universidad de Salamanca*  
 
@@ -68,7 +70,7 @@ Los resultados muestran que PPO iguala a SAC en eficacia con una ventaja de un o
 
 ---
 
-### 🔬 Estancias de Investigación (Prácticas)
+### Estancias de Investigación (Prácticas)
 
 *Colaboración en grupos de investigación y desarrollo de soluciones reales.*
 
@@ -79,7 +81,7 @@ To do
 
 ---
 
-### 🗣️ Mentoría y Eventos
+### Mentoría y Eventos
 
 *Roles de liderazgo técnico, divulgación y guía en competiciones de seguridad.*
 
